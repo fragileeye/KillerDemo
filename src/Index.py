@@ -9,6 +9,8 @@ from WebshellObserver import LanguageIC, TextEntropy, LongestWord, Compression
 app = Flask(__name__, template_folder = r'../templates', static_folder=r'../static')
 detector = WebshellDetector(r'../Config', r'../Log')
 monitors = dict() #key is the monitored directory, value is a  instance of WebshellMonitor
+observer = {'重合指数': LanguageIC(), '信息熵': TextEntropy(), 
+			'最长字符串': LongestWord(), '文件压缩比': Compression()}
 
 def get_file_size(fpath):
 	fsize = os.path.getsize(fpath)
@@ -27,18 +29,27 @@ def index():
 @app.route('/offline', methods = ['GET', 'POST'])
 def offline():
 	result = list()
-	detect_path = request.form.get('tpath', None)
-	start_detect = request.form.get('start_detect', None)
+	valid_param  = False
+	detect_path  = request.form.get('tpath', None)
+	detect_flag  = request.form.get('start', None)
+	detect_level = request.form.get('level', None)
 	
-	if start_detect and detect_path:
-		level = int(request.form['level'])
-		detect_results = detector.detect(detect_path, level)
-		for fpath in detect_results:
-			detect_item = detect_results[fpath]
+	if detect_flag and detect_path and detect_level:
+		if os.path.exists(detect_path): 
+			valid_param = True
+			
+	if valid_param:
+		try:
+			detect_level = int(detect_level)
+		except:
+			detect_level = 1
+		detect_results = detector.detect(detect_path, detect_level)
+		for f in detect_results:
+			detect_item = detect_results[f]
 			if detect_item:
-				size = get_file_size(fpath)
-				date = get_file_date(fpath)
-				item = {'file': fpath, 'size': size, 'date': date}
+				size = get_file_size(f)
+				date = get_file_date(f)
+				item = {'file': f, 'size': size, 'date': date}
 				result.append(item)
 	return render_template('offline.html', title='离线检测', result=result)
 	
@@ -47,14 +58,18 @@ def offline():
 def realtime():
 	result = list()
 	monitor_path  = request.form.get('tpath', None)
+	monitor_level = request.form.get('level', None)
 	start_monitor = request.form.get('start', None)
 	stop_monitors = request.form.get('stop', None)
-
+	
 	if start_monitor: #增加监控
-		level = int(request.form['level'])
+		try:
+			monitor_level = int(monitor_level)
+		except:
+			monitor_level = 1
 		if os.path.isdir(monitor_path):
 			if monitor_path not in monitors:
-				new_monitor = WebshellMonitor(monitor_path, level)
+				new_monitor = WebshellMonitor(monitor_path, monitor_level)
 				new_monitor.start()		
 				monitors[monitor_path] = new_monitor
 	elif stop_monitors: #关闭监控
@@ -72,20 +87,17 @@ def assistant():
 	result = list()
 	calc_type = request.form.get('calc_type', None)
 	calc_path = request.form.get('tpath', None)
-	calc_obj = None
+	valid_param = False
 
-	if not calc_type or not calc_path:
+	if calc_type and calc_path:
+		if calc_type in observer and os.path.exists(calc_path):
+			valid_param = True
+	
+	if not valid_param:
 		return render_template('assistant.html', title='辅助检测')
-
-	if calc_type == '重合指数': 
-		calc_obj = LanguageIC()
-	elif calc_type == '信息熵':
-		calc_obj = TextEntropy()
-	elif calc_type == '最长字符串':
-		calc_obj = LongestWord()
-	elif calc_type == '文件压缩比':
-		calc_obj = Compression()
-
+	
+	calc_obj = observer[calc_type]
+	
 	if os.path.isfile(calc_path):
 		value = calc_obj.calc_from_file(calc_path)
 		size = get_file_size(calc_path)
@@ -104,6 +116,7 @@ def assistant():
 			date = get_file_date(f)
 			item = {'value': v, 'file': f, 'size': size, 'date': date}
 			result.append(item)
+			
 	return render_template('assistant.html', title='辅助检测', result=result, calc_type=calc_type)
 	
 @app.errorhandler

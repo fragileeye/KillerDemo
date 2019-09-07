@@ -6837,3 +6837,1057 @@
 2019-09-07 13:54:53,449 - [_Trigger] > DodgyStrings with keys:[(21, '$', b'backdoor'), (3, '$', b'php://')]
 2019-09-07 13:54:53,449 - [Webshell] > D:\Python代码\webshell检测\代码\Flask\Test\w1_cmd_13.php
 
+2019-09-07 15:43:00,391 - [_Trigger] > Java with keys:[(8391, '$key1', b'Process'), (8403, '$key2', b'Runtime'), (3843, '$key6', b'getInputStream'), (5075, '$key7', b'exec')]
+2019-09-07 15:43:00,458 - [_Trigger] > Java with keys:[(6746, '$key1', b'getParameter'), (2419, '$key2', b'FileOutputStream'), (810, '$key3', b'File'), (2095, '$key5', b'write'), (8912, '$key5', b'print')]
+2019-09-07 15:43:00,458 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_1.jsp
+
+2019-09-07 15:43:00,533 - [_Trigger] > Java with keys:[(7112, '$key1', b'Process'), (7122, '$key2', b'Runtime'), (3447, '$key6', b'getInputStream'), (4454, '$key7', b'exec')]
+2019-09-07 15:43:00,533 - [_Trigger] > Java with keys:[(5808, '$key1', b'getParameter'), (2318, '$key2', b'FileOutputStream'), (1060, '$key3', b'File'), (2066, '$key5', b'write'), (7538, '$key5', b'print')]
+2019-09-07 15:43:00,534 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_1.jspx
+
+2019-09-07 15:43:00,539 - [_Trigger] > Java with keys:[(6691, '$key1', b'Process'), (6701, '$key2', b'Runtime'), (3064, '$key6', b'getInputStream'), (4071, '$key7', b'exec')]
+2019-09-07 15:43:00,539 - [_Trigger] > Java with keys:[(5387, '$key1', b'getParameter'), (1947, '$key2', b'FileOutputStream'), (701, '$key3', b'File'), (1698, '$key5', b'write'), (7114, '$key5', b'print')]
+2019-09-07 15:43:00,540 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_2.jsp
+
+2019-09-07 15:43:00,541 - [_Trigger] > Java with keys:[(7112, '$key1', b'Process'), (7122, '$key2', b'Runtime'), (3447, '$key6', b'getInputStream'), (4454, '$key7', b'exec')]
+2019-09-07 15:43:00,542 - [_Trigger] > Java with keys:[(5808, '$key1', b'getParameter'), (2318, '$key2', b'FileOutputStream'), (1060, '$key3', b'File'), (2066, '$key5', b'write'), (7538, '$key5', b'print')]
+2019-09-07 15:43:00,542 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_2.jspx
+
+2019-09-07 15:43:00,543 - [_Trigger] > Java with keys:[(6698, '$key1', b'Process'), (6708, '$key2', b'Runtime'), (3064, '$key6', b'getInputStream'), (4071, '$key7', b'exec')]
+2019-09-07 15:43:00,543 - [_Trigger] > Java with keys:[(5394, '$key1', b'getParameter'), (1947, '$key2', b'FileOutputStream'), (701, '$key3', b'File'), (1698, '$key5', b'write'), (7121, '$key5', b'print')]
+2019-09-07 15:43:00,543 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_3.jsp
+
+2019-09-07 15:43:00,544 - [_Trigger] > Java with keys:[(8205, '$key1', b'Process'), (8215, '$key2', b'Runtime'), (5140, '$key6', b'getInputStream'), (6032, '$key7', b'exec')]
+2019-09-07 15:43:00,544 - [_Trigger] > Java with keys:[(6884, '$key1', b'getParameter'), (4012, '$key2', b'FileOutputStream'), (2743, '$key3', b'File'), (3752, '$key5', b'write'), (8529, '$key5', b'print')]
+2019-09-07 15:43:00,545 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_4.jsp
+
+2019-09-07 15:43:00,554 - [_Trigger] > Java with keys:[(351, '$key1', b'Process'), (363, '$key2', b'Runtime'), (484, '$key6', b'getInputStream'), (384, '$key7', b'exec')]
+2019-09-07 15:43:00,555 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_1.jsp
+
+2019-09-07 15:43:00,556 - [_Trigger] > Java with keys:[(574, '$key1', b'Process'), (586, '$key2', b'Runtime'), (640, '$key6', b'getInputStream'), (607, '$key7', b'exec')]
+2019-09-07 15:43:00,556 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_1.jspx
+
+2019-09-07 15:43:00,557 - [_Trigger] > Java with keys:[(818, '$key1', b'Process'), (27, '$key5', b'Scanner'), (1099, '$key6', b'getInputStream')]
+2019-09-07 15:43:00,558 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_10.jsp
+
+2019-09-07 15:43:00,566 - [_Trigger] > Java with keys:[(1248, '$key1', b'Process'), (98, '$key5', b'Scanner'), (1424, '$key6', b'getInputStream')]
+2019-09-07 15:43:00,567 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_11.jsp
+
+2019-09-07 15:43:00,568 - [_Trigger] > Java with keys:[(351, '$key1', b'Process'), (363, '$key2', b'Runtime'), (484, '$key6', b'getInputStream'), (384, '$key7', b'exec')]
+2019-09-07 15:43:00,568 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_12.jsp
+
+2019-09-07 15:43:00,570 - [_Trigger] > Java with keys:[(2, '$key2', b'Runtime'), (23, '$key7', b'exec')]
+2019-09-07 15:43:00,571 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_2.jsp
+
+2019-09-07 15:43:00,571 - [_Trigger] > Java with keys:[(157, '$key2', b'Runtime'), (178, '$key7', b'exec')]
+2019-09-07 15:43:00,572 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_2.jspx
+
+2019-09-07 15:43:00,573 - [_Trigger] > Java with keys:[(89, '$key2', b'Runtime'), (142, '$key6', b'getInputStream'), (110, '$key7', b'exec')]
+2019-09-07 15:43:00,573 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_3.jsp
+
+2019-09-07 15:43:00,574 - [_Trigger] > Java with keys:[(243, '$key2', b'Runtime'), (296, '$key6', b'getInputStream'), (264, '$key7', b'exec')]
+2019-09-07 15:43:00,574 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_3.jspx
+
+2019-09-07 15:43:00,584 - [_Trigger] > Java with keys:[(227, '$key1', b'Jython'), (1597, '$key2', b'DefaultConsoleImpl'), (535, '$key3', b'PythonInterpreter')]
+2019-09-07 15:43:00,585 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_4.jsp
+
+2019-09-07 15:43:00,586 - [_Trigger] > Java with keys:[(507, '$key1', b'Process'), (523, '$key2', b'Runtime'), (582, '$key6', b'getInputStream'), (544, '$key7', b'exec')]
+2019-09-07 15:43:00,587 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_4.jspx
+
+2019-09-07 15:43:00,587 - [_Trigger] > Java with keys:[(1900, '$key1', b'Process'), (1848, '$key2', b'Runtime'), (2347, '$key4', b'start'), (2038, '$key6', b'getInputStream'), (1918, '$key7', b'exec')]
+2019-09-07 15:43:00,588 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_5.jsp
+
+2019-09-07 15:43:00,589 - [_Trigger] > Java with keys:[(574, '$key1', b'Process'), (586, '$key2', b'Runtime'), (640, '$key6', b'getInputStream'), (607, '$key7', b'exec')]
+2019-09-07 15:43:00,589 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_5.jspx
+
+2019-09-07 15:43:00,590 - [_Trigger] > Java with keys:[(191, '$key1', b'Process'), (203, '$key2', b'Runtime'), (298, '$key6', b'getInputStream'), (224, '$key7', b'exec')]
+2019-09-07 15:43:00,590 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_6.jsp
+
+2019-09-07 15:43:00,591 - [_Trigger] > Java with keys:[(157, '$key2', b'Runtime'), (178, '$key7', b'exec')]
+2019-09-07 15:43:00,592 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_6.jspx
+
+2019-09-07 15:43:00,606 - [_Trigger] > Java with keys:[(277707, '$key1', b'Process'), (277719, '$key2', b'Runtime'), (66645, '$key4', b'start'), (277829, '$key6', b'getInputStream'), (4882, '$key7', b'exec')]
+2019-09-07 15:43:00,606 - [_Trigger] > Java with keys:[(975, '$key1', b'getParameter'), (68, '$key3', b'File'), (278260, '$key4', b'PrintWriter'), (273177, '$key5', b'print')]
+2019-09-07 15:43:00,606 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_7.jsp
+
+2019-09-07 15:43:00,608 - [_Trigger] > Java with keys:[(243, '$key2', b'Runtime'), (296, '$key6', b'getInputStream'), (264, '$key7', b'exec')]
+2019-09-07 15:43:00,608 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_7.jspx
+
+2019-09-07 15:43:00,609 - [_Trigger] > Java with keys:[(392, '$key1', b'Process'), (408, '$key2', b'Runtime'), (466, '$key6', b'getInputStream'), (429, '$key7', b'exec')]
+2019-09-07 15:43:00,609 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_8.jsp
+
+2019-09-07 15:43:00,616 - [_Trigger] > Java with keys:[(507, '$key1', b'Process'), (523, '$key2', b'Runtime'), (582, '$key6', b'getInputStream'), (544, '$key7', b'exec')]
+2019-09-07 15:43:00,616 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_8.jspx
+
+2019-09-07 15:43:00,617 - [_Trigger] > Java with keys:[(587, '$key1', b'Process'), (587, '$key3', b'ProcessBuilder'), (940, '$key4', b'start'), (60, '$key5', b'Scanner'), (991, '$key6', b'getInputStream')]
+2019-09-07 15:43:00,618 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_9.jsp
+
+2019-09-07 15:43:00,619 - [_Trigger] > Java with keys:[(2353, '$key2', b'Runtime'), (2384, '$key6', b'getInputStream'), (2278, '$key7', b'exec')]
+2019-09-07 15:43:00,620 - [_Trigger] > Java with keys:[(5483, '$key1', b'getParameter'), (1682, '$key2', b'FileOutputStream'), (1626, '$key3', b'File'), (639, '$key4', b'PrintWriter'), (619, '$key5', b'print'), (1424, '$key5', b'write')]
+2019-09-07 15:43:00,620 - [_Trigger] > Java with keys:[(3023, '$key1', b'shell'), (5966, '$key2', b'downloadL'), (2278, '$key3', b'exec'), (1858, '$key4', b'cat'), (3660, '$key5', b'auto'), (6509, '$key5', b'Auto'), (2684, '$key6', b'download')]
+2019-09-07 15:43:00,620 - [_Trigger] > Java with keys:[]
+2019-09-07 15:43:00,620 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_1.jsp
+
+2019-09-07 15:43:00,623 - [_Trigger] > Java with keys:[(9304, '$key1', b'Process'), (67542, '$key2', b'Runtime'), (5301, '$key4', b'start'), (17511, '$key6', b'getInputStream'), (3450, '$key7', b'exec')]
+2019-09-07 15:43:00,624 - [_Trigger] > Java with keys:[(2338, '$key1', b'getParameter'), (101605, '$key1', b'getHeader'), (18103, '$key2', b'FileOutputStream'), (5819, '$key3', b'File'), (20745, '$key4', b'PrintWriter'), (4781, '$key5', b'write'), (20790, '$key5', b'print')]
+2019-09-07 15:43:00,625 - [_Trigger] > Java with keys:[(1172, '$jspspy', b'JspSpy'), (43526, '$jspspy', b'jspspy')]
+2019-09-07 15:43:00,625 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_1.jspx
+
+2019-09-07 15:43:00,633 - [_Trigger] > Java with keys:[(8897, '$key1', b'Process'), (66972, '$key2', b'Runtime'), (4894, '$key4', b'start'), (17104, '$key6', b'getInputStream'), (3043, '$key7', b'exec')]
+2019-09-07 15:43:00,633 - [_Trigger] > Java with keys:[(1931, '$key1', b'getParameter'), (101047, '$key1', b'getHeader'), (17696, '$key2', b'FileOutputStream'), (5412, '$key3', b'File'), (20257, '$key4', b'PrintWriter'), (4374, '$key5', b'write'), (20302, '$key5', b'print')]
+2019-09-07 15:43:00,633 - [_Trigger] > Java with keys:[(765, '$jspspy', b'JspSpy'), (43039, '$jspspy', b'jspspy')]
+2019-09-07 15:43:00,633 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_10.jsp
+
+2019-09-07 15:43:00,635 - [_Trigger] > Java with keys:[(4244, '$key1', b'Process'), (4214, '$key2', b'Runtime'), (14509, '$key4', b'start'), (9666, '$key6', b'getInputStream'), (9411, '$key7', b'exec')]
+2019-09-07 15:43:00,636 - [_Trigger] > Java with keys:[(27471, '$key1', b'getParameter'), (6973, '$key2', b'FileOutputStream'), (546, '$key3', b'File'), (324, '$key5', b'print'), (2725, '$key5', b'write')]
+2019-09-07 15:43:00,636 - [_Trigger] > Java with keys:[(2341, '$jspSilic', b'Silic'), (22858, '$jspSilic', b'silic'), (178, '$jspmgrsystem2', b'Manage System - JSP')]
+2019-09-07 15:43:00,636 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_11.jsp
+
+2019-09-07 15:43:00,638 - [_Trigger] > Java with keys:[(2585, '$key1', b'Process'), (2616, '$key2', b'Runtime'), (2398, '$key4', b'start'), (2745, '$key6', b'getInputStream'), (2206, '$key7', b'exec')]
+2019-09-07 15:43:00,638 - [_Trigger] > Java with keys:[(3960, '$key1', b'getParameter'), (28137, '$key1', b'getHeader'), (6639, '$key2', b'FileOutputStream'), (6639, '$key3', b'File'), (4291, '$key5', b'print'), (6920, '$key5', b'write')]
+2019-09-07 15:43:00,639 - [_Trigger] > Java with keys:[(1277, '$jspwebmgr', b'http://www.shack2.org')]
+2019-09-07 15:43:00,639 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_12.jsp
+
+2019-09-07 15:43:00,645 - [_Trigger] > Java with keys:[(35691, '$key1', b'Process'), (35703, '$key2', b'Runtime'), (3591, '$key4', b'start'), (21360, '$key6', b'getInputStream'), (35724, '$key7', b'exec')]
+2019-09-07 15:43:00,645 - [_Trigger] > Java with keys:[(418, '$key1', b'getParameter'), (9651, '$key2', b'FileOutputStream'), (49, '$key3', b'File'), (33797, '$key4', b'PrintWriter'), (455, '$key5', b'print'), (10364, '$key5', b'write')]
+2019-09-07 15:43:00,645 - [_Trigger] > Java with keys:[(34932, '$jspcoffee', b'www.kukafei520.net')]
+2019-09-07 15:43:00,646 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_13.jsp
+
+2019-09-07 15:43:00,647 - [_Trigger] > Java with keys:[(3882, '$key1', b'Process'), (54638, '$key2', b'Runtime'), (20760, '$key4', b'start'), (9613, '$key6', b'getInputStream'), (2411, '$key7', b'exec')]
+2019-09-07 15:43:00,648 - [_Trigger] > Java with keys:[(1493, '$key1', b'getParameter'), (77462, '$key1', b'getHeader'), (10085, '$key2', b'FileOutputStream'), (9876, '$key3', b'File'), (12534, '$key4', b'PrintWriter'), (3687, '$key5', b'write'), (10605, '$key5', b'print')]
+2019-09-07 15:43:00,648 - [_Trigger] > Java with keys:[(777, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:00,648 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_2.jsp
+
+2019-09-07 15:43:00,650 - [_Trigger] > Java with keys:[(1311, '$key1', b'Process'), (1269, '$key2', b'Runtime'), (17362, '$key4', b'start'), (1527, '$key6', b'getInputStream'), (1474, '$key7', b'exec')]
+2019-09-07 15:43:00,650 - [_Trigger] > Java with keys:[(31973, '$key1', b'getParameter'), (19086, '$key2', b'FileOutputStream'), (415, '$key3', b'File'), (10582, '$key5', b'write'), (32881, '$key5', b'print')]
+2019-09-07 15:43:00,650 - [_Trigger] > Java with keys:[(31245, '$jshell', b'jshell ver')]
+2019-09-07 15:43:00,650 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_3.jsp
+
+2019-09-07 15:43:00,654 - [_Trigger] > Java with keys:[(22302, '$key1', b'Process'), (22626, '$key2', b'Runtime'), (5127, '$key4', b'start'), (22778, '$key6', b'getInputStream'), (22647, '$key7', b'exec')]
+2019-09-07 15:43:00,655 - [_Trigger] > Java with keys:[(26112, '$key1', b'getParameter'), (11400, '$key2', b'FileOutputStream'), (11, '$key3', b'File'), (661, '$key5', b'write'), (41340, '$key5', b'print')]
+2019-09-07 15:43:00,656 - [_Trigger] > Java with keys:[(7, '$jspfb', b'jsp File browser'), (33924, '$jspfb', b'jsp File Browser'), (35829, '$jspfb', b'jsp file browser')]
+2019-09-07 15:43:00,656 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_4.jsp
+
+2019-09-07 15:43:00,661 - [_Trigger] > Java with keys:[(29050, '$key1', b'Process'), (29060, '$key2', b'Runtime'), (2032, '$key4', b'start'), (18454, '$key6', b'getInputStream'), (29081, '$key7', b'exec')]
+2019-09-07 15:43:00,661 - [_Trigger] > Java with keys:[(12594, '$key1', b'getParameter'), (7918, '$key2', b'FileOutputStream'), (381, '$key3', b'File'), (8606, '$key5', b'write'), (25148, '$key5', b'print')]
+2019-09-07 15:43:00,661 - [_Trigger] > Java with keys:[(54, '$jfolder', b'JFolder.jsp')]
+2019-09-07 15:43:00,662 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_5.jsp
+
+2019-09-07 15:43:00,663 - [_Trigger] > Java with keys:[(13587, '$key1', b'getParameter'), (6750, '$key2', b'FileOutputStream'), (1515, '$key3', b'File'), (6475, '$key5', b'print'), (7692, '$key5', b'write')]
+2019-09-07 15:43:00,663 - [_Trigger] > Java with keys:[(584, '$jspfilemgr', b'http://jmmm.com')]
+2019-09-07 15:43:00,664 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_6.jsp
+
+2019-09-07 15:43:00,666 - [_Trigger] > Java with keys:[(21160, '$key1', b'Process'), (21484, '$key2', b'Runtime'), (3985, '$key4', b'start'), (21636, '$key6', b'getInputStream'), (21505, '$key7', b'exec')]
+2019-09-07 15:43:00,666 - [_Trigger] > Java with keys:[(24970, '$key1', b'getParameter'), (10258, '$key2', b'FileOutputStream'), (3055, '$key3', b'File'), (10946, '$key5', b'write'), (40194, '$key5', b'print')]
+2019-09-07 15:43:00,666 - [_Trigger] > Java with keys:[(32782, '$jspfb', b'jsp File Browser'), (34687, '$jspfb', b'jsp file browser')]
+2019-09-07 15:43:00,667 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_7.jsp
+
+2019-09-07 15:43:00,668 - [_Trigger] > Java with keys:[(3061, '$key1', b'Process'), (3019, '$key2', b'Runtime'), (23932, '$key4', b'start'), (3277, '$key6', b'getInputStream'), (3224, '$key7', b'exec')]
+2019-09-07 15:43:00,668 - [_Trigger] > Java with keys:[(611, '$key1', b'getParameter'), (3781, '$key2', b'FileOutputStream'), (23258, '$key2', b'RandomAccessFile'), (89, '$key3', b'File'), (1367, '$key4', b'PrintWriter'), (1088, '$key5', b'print'), (1251, '$key5', b'write')]
+2019-09-07 15:43:00,670 - [_Trigger] > Java with keys:[(200, '$jspwebshell', b'JspWebshell'), (5826, '$jspwebshell', b'JspWebShell')]
+2019-09-07 15:43:00,670 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_8.jsp
+
+2019-09-07 15:43:00,677 - [_Trigger] > Java with keys:[(13464, '$key1', b'Process'), (13426, '$key2', b'Runtime'), (7924, '$key4', b'start'), (13589, '$key6', b'getInputStream'), (13544, '$key7', b'exec')]
+2019-09-07 15:43:00,677 - [_Trigger] > Java with keys:[(1287, '$key1', b'getParameter'), (15542, '$key2', b'FileOutputStream'), (1119, '$key3', b'File'), (1464, '$key5', b'print'), (15576, '$key5', b'write')]
+2019-09-07 15:43:00,677 - [_Trigger] > Java with keys:[(153, '$jspspy', b'Jspspy'), (902, '$jspspy', b'jspspy'), (1638, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:00,678 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_9.jsp
+
+2019-09-07 15:43:00,678 - [_Trigger] > Java with keys:[(394, '$key1', b'getParameter'), (761, '$key2', b'FileOutputStream'), (761, '$key3', b'File'), (808, '$key5', b'write'), (859, '$key5', b'print')]
+2019-09-07 15:43:00,679 - [_Trigger] > Java with keys:[(165, '$jspdp', b'JspDo Code By')]
+2019-09-07 15:43:00,679 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_1.jsp
+
+2019-09-07 15:43:00,680 - [_Trigger] > Java with keys:[(13, '$key1', b'getParameter'), (50, '$key2', b'FileOutputStream'), (50, '$key3', b'File'), (124, '$key5', b'write')]
+2019-09-07 15:43:00,681 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_10.jsp
+
+2019-09-07 15:43:00,682 - [_Trigger] > Java with keys:[(358, '$key1', b'getParameter'), (670, '$key2', b'FileOutputStream'), (670, '$key3', b'File'), (714, '$key5', b'write'), (762, '$key5', b'print')]
+2019-09-07 15:43:00,682 - [_Trigger] > Java with keys:[(150, '$jspdp', b'JspDo Code By')]
+2019-09-07 15:43:00,682 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_11.jsp
+
+2019-09-07 15:43:00,683 - [_Trigger] > Java with keys:[(403, '$key1', b'getParameter'), (773, '$key3', b'File'), (1267, '$key4', b'PrintWriter'), (1414, '$key5', b'print'), (1419, '$key5', b'write')]
+2019-09-07 15:43:00,687 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_12.jsp
+
+2019-09-07 15:43:00,699 - [_Trigger] > Java with keys:[(230, '$key1', b'getParameter'), (699, '$key3', b'File'), (734, '$key4', b'PrintWriter'), (746, '$key5', b'write'), (792, '$key5', b'print')]
+2019-09-07 15:43:00,699 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_13.jsp
+
+2019-09-07 15:43:00,700 - [_Trigger] > Java with keys:[(593, '$key1', b'getHeader'), (2778, '$key2', b'FileOutputStream'), (165, '$key3', b'File'), (2169, '$key5', b'write'), (3620, '$key5', b'print')]
+2019-09-07 15:43:00,700 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_2.jsp
+
+2019-09-07 15:43:00,702 - [_Trigger] > Java with keys:[(230, '$key1', b'getParameter'), (699, '$key3', b'File'), (734, '$key4', b'PrintWriter'), (746, '$key5', b'write'), (792, '$key5', b'print')]
+2019-09-07 15:43:00,702 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_3.jsp
+
+2019-09-07 15:43:00,704 - [_Trigger] > Java with keys:[(176, '$key1', b'getParameter'), (464, '$key2', b'FileOutputStream'), (464, '$key3', b'File'), (504, '$key5', b'write'), (548, '$key5', b'print')]
+2019-09-07 15:43:00,704 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_4.jsp
+
+2019-09-07 15:43:00,710 - [_Trigger] > Java with keys:[(232, '$key1', b'getParameter'), (701, '$key3', b'File'), (736, '$key4', b'PrintWriter'), (748, '$key5', b'write'), (794, '$key5', b'print')]
+2019-09-07 15:43:00,711 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_5.jsp
+
+2019-09-07 15:43:00,712 - [_Trigger] > Java with keys:[(227, '$key1', b'getParameter'), (175, '$key2', b'FileOutputStream'), (81, '$key3', b'File'), (461, '$key5', b'write')]
+2019-09-07 15:43:00,713 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_6.jsp
+
+2019-09-07 15:43:00,714 - [_Trigger] > Java with keys:[(101, '$key1', b'getParameter'), (368, '$key2', b'FileOutputStream'), (123, '$key3', b'File'), (446, '$key5', b'write'), (484, '$key5', b'print')]
+2019-09-07 15:43:00,714 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_7.jsp
+
+2019-09-07 15:43:00,716 - [_Trigger] > Java with keys:[(417, '$key1', b'getParameter'), (181, '$key2', b'FileOutputStream'), (83, '$key3', b'File'), (717, '$key5', b'write')]
+2019-09-07 15:43:00,716 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_8.jsp
+
+2019-09-07 15:43:00,717 - [_Trigger] > Java with keys:[(228, '$key1', b'getParameter'), (669, '$key3', b'File'), (702, '$key4', b'PrintWriter'), (714, '$key5', b'write'), (758, '$key5', b'print')]
+2019-09-07 15:43:00,717 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_9.jsp
+
+2019-09-07 15:43:00,718 - [_Trigger] > Java with keys:[(6694, '$key1', b'Process'), (6704, '$key2', b'Runtime'), (3067, '$key6', b'getInputStream'), (4074, '$key7', b'exec')]
+2019-09-07 15:43:00,719 - [_Trigger] > Java with keys:[(5390, '$key1', b'getParameter'), (1950, '$key2', b'FileOutputStream'), (704, '$key3', b'File'), (1701, '$key5', b'write'), (7117, '$key5', b'print')]
+2019-09-07 15:43:00,719 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_1.jsp
+
+2019-09-07 15:43:00,730 - [_Trigger] > Java with keys:[(7112, '$key1', b'Process'), (7122, '$key2', b'Runtime'), (3447, '$key6', b'getInputStream'), (4454, '$key7', b'exec')]
+2019-09-07 15:43:00,730 - [_Trigger] > Java with keys:[(5808, '$key1', b'getParameter'), (2318, '$key2', b'FileOutputStream'), (1060, '$key3', b'File'), (2066, '$key5', b'write'), (7538, '$key5', b'print')]
+2019-09-07 15:43:00,730 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_1.jspx
+
+2019-09-07 15:43:00,731 - [_Trigger] > Java with keys:[(5931, '$key1', b'Process'), (5941, '$key2', b'Runtime'), (2866, '$key6', b'getInputStream'), (3758, '$key7', b'exec')]
+2019-09-07 15:43:00,731 - [_Trigger] > Java with keys:[(4610, '$key1', b'getParameter'), (1738, '$key2', b'FileOutputStream'), (469, '$key3', b'File'), (1478, '$key5', b'write'), (6255, '$key5', b'print')]
+2019-09-07 15:43:00,732 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_2.jsp
+
+2019-09-07 15:43:00,733 - [_Trigger] > Java with keys:[(7118, '$key1', b'Process'), (7128, '$key2', b'Runtime'), (3453, '$key6', b'getInputStream'), (4460, '$key7', b'exec')]
+2019-09-07 15:43:00,733 - [_Trigger] > Java with keys:[(5814, '$key1', b'getParameter'), (2324, '$key2', b'FileOutputStream'), (1066, '$key3', b'File'), (2072, '$key5', b'write'), (7544, '$key5', b'print')]
+2019-09-07 15:43:00,733 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_2.jspx
+
+2019-09-07 15:43:00,735 - [_Trigger] > Java with keys:[(10308, '$key1', b'Process'), (10320, '$key2', b'Runtime'), (10021, '$key4', b'start'), (9218, '$key6', b'getInputStream'), (1930, '$key7', b'exec')]
+2019-09-07 15:43:00,735 - [_Trigger] > Java with keys:[(12431, '$key1', b'getParameter'), (5768, '$key2', b'FileOutputStream'), (4219, '$key3', b'File'), (5820, '$key5', b'write'), (10736, '$key5', b'print')]
+2019-09-07 15:43:00,735 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_3.jsp
+
+2019-09-07 15:43:00,737 - [_Trigger] > Java with keys:[(7304, '$key1', b'Process'), (7314, '$key2', b'Runtime'), (3639, '$key6', b'getInputStream'), (4646, '$key7', b'exec')]
+2019-09-07 15:43:00,737 - [_Trigger] > Java with keys:[(6000, '$key1', b'getParameter'), (2504, '$key2', b'FileOutputStream'), (1156, '$key3', b'File'), (2234, '$key5', b'write'), (7730, '$key5', b'print')]
+2019-09-07 15:43:00,738 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_3.jspx
+
+2019-09-07 15:43:00,748 - [_Trigger] > Java with keys:[(8205, '$key1', b'Process'), (8215, '$key2', b'Runtime'), (5140, '$key6', b'getInputStream'), (6032, '$key7', b'exec')]
+2019-09-07 15:43:00,748 - [_Trigger] > Java with keys:[(6884, '$key1', b'getParameter'), (4012, '$key2', b'FileOutputStream'), (2743, '$key3', b'File'), (3752, '$key5', b'write'), (8529, '$key5', b'print')]
+2019-09-07 15:43:00,749 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_4.jsp
+
+2019-09-07 15:43:00,750 - [_Trigger] > Java with keys:[(320, '$key1', b'Process'), (332, '$key2', b'Runtime'), (446, '$key6', b'getInputStream'), (353, '$key7', b'exec')]
+2019-09-07 15:43:00,750 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_1.jsp
+
+2019-09-07 15:43:00,751 - [_Trigger] > Java with keys:[(243, '$key2', b'Runtime'), (296, '$key6', b'getInputStream'), (264, '$key7', b'exec')]
+2019-09-07 15:43:00,752 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_1.jspx
+
+2019-09-07 15:43:00,753 - [_Trigger] > Java with keys:[(193, '$key1', b'Process'), (205, '$key2', b'Runtime'), (348, '$key6', b'getInputStream'), (230, '$key7', b'exec')]
+2019-09-07 15:43:00,753 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_10.jsp
+
+2019-09-07 15:43:00,761 - [_Trigger] > Java with keys:[(336, '$key1', b'Process'), (349, '$key2', b'Runtime'), (465, '$key6', b'getInputStream'), (370, '$key7', b'exec')]
+2019-09-07 15:43:00,762 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_12.jsp
+
+2019-09-07 15:43:00,763 - [_Trigger] > Java with keys:[(392, '$key1', b'Process'), (408, '$key2', b'Runtime'), (466, '$key6', b'getInputStream'), (429, '$key7', b'exec')]
+2019-09-07 15:43:00,764 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_13.jsp
+
+2019-09-07 15:43:00,765 - [_Trigger] > Java with keys:[(732, '$key1', b'Process'), (685, '$key2', b'Runtime'), (947, '$key6', b'getInputStream'), (774, '$key7', b'exec')]
+2019-09-07 15:43:00,765 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_14.jsp
+
+2019-09-07 15:43:00,766 - [_Trigger] > Java with keys:[(289, '$key1', b'Process'), (301, '$key2', b'Runtime'), (422, '$key6', b'getInputStream'), (322, '$key7', b'exec')]
+2019-09-07 15:43:00,767 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_2.jsp
+
+2019-09-07 15:43:00,769 - [_Trigger] > Java with keys:[(574, '$key1', b'Process'), (586, '$key2', b'Runtime'), (640, '$key6', b'getInputStream'), (607, '$key7', b'exec')]
+2019-09-07 15:43:00,770 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_2.jspx
+
+2019-09-07 15:43:00,780 - [_Trigger] > Java with keys:[(192, '$key1', b'Process'), (1102, '$key2', b'Runtime'), (1522, '$key4', b'start'), (1382, '$key6', b'getInputStream'), (1287, '$key7', b'exec')]
+2019-09-07 15:43:00,780 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_3.jsp
+
+2019-09-07 15:43:00,781 - [_Trigger] > Java with keys:[(157, '$key2', b'Runtime'), (178, '$key7', b'exec')]
+2019-09-07 15:43:00,782 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_3.jspx
+
+2019-09-07 15:43:00,783 - [_Trigger] > Java with keys:[(192, '$key1', b'Process'), (204, '$key2', b'Runtime'), (299, '$key6', b'getInputStream'), (225, '$key7', b'exec')]
+2019-09-07 15:43:00,783 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_4.jsp
+
+2019-09-07 15:43:00,785 - [_Trigger] > Java with keys:[(507, '$key1', b'Process'), (523, '$key2', b'Runtime'), (582, '$key6', b'getInputStream'), (544, '$key7', b'exec')]
+2019-09-07 15:43:00,787 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_4.jspx
+
+2019-09-07 15:43:00,799 - [_Trigger] > Java with keys:[(277707, '$key1', b'Process'), (277719, '$key2', b'Runtime'), (66645, '$key4', b'start'), (277829, '$key6', b'getInputStream'), (4882, '$key7', b'exec')]
+2019-09-07 15:43:00,800 - [_Trigger] > Java with keys:[(975, '$key1', b'getParameter'), (68, '$key3', b'File'), (278260, '$key4', b'PrintWriter'), (273177, '$key5', b'print')]
+2019-09-07 15:43:00,800 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_5.jsp
+
+2019-09-07 15:43:00,802 - [_Trigger] > Java with keys:[(227, '$key1', b'Jython'), (1597, '$key2', b'DefaultConsoleImpl'), (535, '$key3', b'PythonInterpreter')]
+2019-09-07 15:43:00,803 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_6.jsp
+
+2019-09-07 15:43:00,807 - [_Trigger] > Java with keys:[(25, '$key2', b'Runtime'), (17, '$key5', b'Scanner'), (80, '$key6', b'getInputStream'), (46, '$key7', b'exec')]
+2019-09-07 15:43:00,807 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_7.jsp
+
+2019-09-07 15:43:00,808 - [_Trigger] > Java with keys:[(719, '$key1', b'Process'), (185, '$key2', b'Runtime'), (815, '$key6', b'getInputStream'), (733, '$key7', b'exec')]
+2019-09-07 15:43:00,809 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_8.jsp
+
+2019-09-07 15:43:00,811 - [_Trigger] > Java with keys:[(447, '$key1', b'Process'), (459, '$key2', b'Runtime'), (607, '$key6', b'getInputStream'), (480, '$key7', b'exec')]
+2019-09-07 15:43:00,811 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_9.jsp
+
+2019-09-07 15:43:00,813 - [_Trigger] > Java with keys:[(3168, '$key1', b'Process'), (3125, '$key2', b'Runtime'), (24691, '$key4', b'start'), (3394, '$key6', b'getInputStream'), (3339, '$key7', b'exec')]
+2019-09-07 15:43:00,813 - [_Trigger] > Java with keys:[(640, '$key1', b'getParameter'), (3931, '$key2', b'FileOutputStream'), (24017, '$key2', b'RandomAccessFile'), (90, '$key3', b'File'), (1428, '$key4', b'PrintWriter'), (1138, '$key5', b'print'), (1312, '$key5', b'write')]
+2019-09-07 15:43:00,813 - [_Trigger] > Java with keys:[(201, '$jspwebshell', b'JspWebshell'), (6104, '$jspwebshell', b'JspWebShell')]
+2019-09-07 15:43:00,813 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_1.jsp
+
+2019-09-07 15:43:00,814 - [_Trigger] > Java with keys:[(2479, '$key2', b'Runtime'), (2510, '$key6', b'getInputStream'), (2402, '$key7', b'exec')]
+2019-09-07 15:43:00,814 - [_Trigger] > Java with keys:[(4124, '$key1', b'getParameter'), (1771, '$key2', b'FileOutputStream'), (1714, '$key3', b'File'), (652, '$key4', b'PrintWriter'), (632, '$key5', b'print'), (1494, '$key5', b'write')]
+2019-09-07 15:43:00,815 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_1.jspx
+
+2019-09-07 15:43:00,824 - [_Trigger] > Java with keys:[(13430, '$key1', b'Process'), (13392, '$key2', b'Runtime'), (7890, '$key4', b'start'), (13555, '$key6', b'getInputStream'), (13510, '$key7', b'exec')]
+2019-09-07 15:43:00,825 - [_Trigger] > Java with keys:[(1277, '$key1', b'getParameter'), (15508, '$key2', b'FileOutputStream'), (1109, '$key3', b'File'), (1454, '$key5', b'print'), (15542, '$key5', b'write')]
+2019-09-07 15:43:00,825 - [_Trigger] > Java with keys:[(153, '$jspspy', b'Jspspy'), (902, '$jspspy', b'jspspy'), (1628, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:00,826 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_10.jsp
+
+2019-09-07 15:43:00,828 - [_Trigger] > Java with keys:[(3864, '$key1', b'Process'), (1704, '$key2', b'Runtime'), (1633, '$key4', b'start'), (4192, '$key6', b'getInputStream'), (3772, '$key7', b'exec')]
+2019-09-07 15:43:00,829 - [_Trigger] > Java with keys:[(771, '$key1', b'getParameter'), (14028, '$key2', b'FileOutputStream'), (3056, '$key3', b'File'), (3219, '$key5', b'write'), (4388, '$key5', b'print')]
+2019-09-07 15:43:00,829 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_11.jsp
+
+2019-09-07 15:43:00,830 - [_Trigger] > Java with keys:[(2862, '$key1', b'Process'), (2878, '$key3', b'ProcessBuilder'), (2899, '$key4', b'start'), (2930, '$key6', b'getInputStream'), (2757, '$key7', b'exec')]
+2019-09-07 15:43:00,831 - [_Trigger] > Java with keys:[(19728, '$key1', b'getParameter'), (24503, '$key1', b'getHeader'), (6360, '$key2', b'FileOutputStream'), (3293, '$key3', b'File'), (626, '$key5', b'print'), (6864, '$key5', b'write')]
+2019-09-07 15:43:00,831 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_12.jsp
+
+2019-09-07 15:43:00,835 - [_Trigger] > Java with keys:[(7852, '$key1', b'Process'), (59811, '$key2', b'Runtime'), (4381, '$key4', b'start'), (15132, '$key6', b'getInputStream'), (2782, '$key7', b'exec')]
+2019-09-07 15:43:00,836 - [_Trigger] > Java with keys:[(1786, '$key1', b'getParameter'), (88903, '$key1', b'getHeader'), (15611, '$key2', b'FileOutputStream'), (4833, '$key3', b'File'), (17888, '$key4', b'PrintWriter'), (3941, '$key5', b'write'), (17929, '$key5', b'print')]
+2019-09-07 15:43:00,836 - [_Trigger] > Java with keys:[(712, '$jsptqz', b'JspTqz')]
+2019-09-07 15:43:00,837 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_13.jsp
+
+2019-09-07 15:43:00,846 - [_Trigger] > Java with keys:[(1317, '$key1', b'Process'), (1329, '$key2', b'Runtime'), (759, '$key4', b'start'), (1383, '$key6', b'getInputStream'), (1162, '$key7', b'exec')]
+2019-09-07 15:43:00,847 - [_Trigger] > Java with keys:[(8677, '$key1', b'getParameter'), (12341, '$key1', b'getHeader'), (2507, '$key2', b'FileOutputStream'), (276, '$key3', b'File'), (1523, '$key5', b'write'), (9508, '$key5', b'print')]
+2019-09-07 15:43:00,847 - [_Trigger] > Java with keys:[(4307, '$jspmietian', b'http://www.mietian.net')]
+2019-09-07 15:43:00,847 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_14.jsp
+
+2019-09-07 15:43:00,850 - [_Trigger] > Java with keys:[(1281, '$key1', b'Process'), (1240, '$key2', b'Runtime'), (16307, '$key4', b'start'), (1487, '$key6', b'getInputStream'), (1436, '$key7', b'exec')]
+2019-09-07 15:43:00,850 - [_Trigger] > Java with keys:[(29928, '$key1', b'getParameter'), (17831, '$key2', b'FileOutputStream'), (411, '$key3', b'File'), (9911, '$key5', b'write'), (32598, '$key5', b'print')]
+2019-09-07 15:43:00,850 - [_Trigger] > Java with keys:[(55160, '$jshell', b'jshell ver')]
+2019-09-07 15:43:00,850 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_2.jsp
+
+2019-09-07 15:43:00,857 - [_Trigger] > Java with keys:[(9304, '$key1', b'Process'), (67542, '$key2', b'Runtime'), (5301, '$key4', b'start'), (17511, '$key6', b'getInputStream'), (3450, '$key7', b'exec')]
+2019-09-07 15:43:00,858 - [_Trigger] > Java with keys:[(2338, '$key1', b'getParameter'), (101605, '$key1', b'getHeader'), (18103, '$key2', b'FileOutputStream'), (5819, '$key3', b'File'), (20745, '$key4', b'PrintWriter'), (4781, '$key5', b'write'), (20790, '$key5', b'print')]
+2019-09-07 15:43:00,858 - [_Trigger] > Java with keys:[(1172, '$jspspy', b'JspSpy'), (43526, '$jspspy', b'jspspy')]
+2019-09-07 15:43:00,858 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_2.jspx
+
+2019-09-07 15:43:00,860 - [_Trigger] > Java with keys:[(1962, '$key1', b'Process'), (1974, '$key2', b'Runtime'), (1767, '$key4', b'start'), (2103, '$key6', b'getInputStream'), (1589, '$key7', b'exec')]
+2019-09-07 15:43:00,860 - [_Trigger] > Java with keys:[(3242, '$key1', b'getParameter'), (25206, '$key1', b'getHeader'), (433, '$key2', b'FileOutputStream'), (332, '$key3', b'File'), (3573, '$key5', b'print'), (4577, '$key5', b'write')]
+2019-09-07 15:43:00,861 - [_Trigger] > Java with keys:[(19842, '$jspwebmgr', b'http://www.shack2.org')]
+2019-09-07 15:43:00,861 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_3.jsp
+
+2019-09-07 15:43:00,862 - [_Trigger] > Java with keys:[(13464, '$key1', b'Process'), (13426, '$key2', b'Runtime'), (7924, '$key4', b'start'), (13589, '$key6', b'getInputStream'), (13544, '$key7', b'exec')]
+2019-09-07 15:43:00,863 - [_Trigger] > Java with keys:[(1287, '$key1', b'getParameter'), (15542, '$key2', b'FileOutputStream'), (1119, '$key3', b'File'), (1464, '$key5', b'print'), (15576, '$key5', b'write')]
+2019-09-07 15:43:00,863 - [_Trigger] > Java with keys:[(153, '$jspspy', b'Jspspy'), (902, '$jspspy', b'jspspy'), (1638, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:00,863 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_4.jsp
+
+2019-09-07 15:43:00,865 - [_Trigger] > Java with keys:[(2353, '$key2', b'Runtime'), (2384, '$key6', b'getInputStream'), (2278, '$key7', b'exec')]
+2019-09-07 15:43:00,865 - [_Trigger] > Java with keys:[(5483, '$key1', b'getParameter'), (1682, '$key2', b'FileOutputStream'), (1626, '$key3', b'File'), (639, '$key4', b'PrintWriter'), (619, '$key5', b'print'), (1424, '$key5', b'write')]
+2019-09-07 15:43:00,865 - [_Trigger] > Java with keys:[(3023, '$key1', b'shell'), (5966, '$key2', b'downloadL'), (2278, '$key3', b'exec'), (1858, '$key4', b'cat'), (3660, '$key5', b'auto'), (6509, '$key5', b'Auto'), (2684, '$key6', b'download')]
+2019-09-07 15:43:00,865 - [_Trigger] > Java with keys:[]
+2019-09-07 15:43:00,865 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_5.jsp
+
+2019-09-07 15:43:00,867 - [_Trigger] > Java with keys:[(21818, '$key1', b'Process'), (22142, '$key2', b'Runtime'), (4633, '$key4', b'start'), (22294, '$key6', b'getInputStream'), (22163, '$key7', b'exec')]
+2019-09-07 15:43:00,868 - [_Trigger] > Java with keys:[(25572, '$key1', b'getParameter'), (10904, '$key2', b'FileOutputStream'), (11, '$key3', b'File'), (663, '$key5', b'write'), (35115, '$key5', b'print')]
+2019-09-07 15:43:00,869 - [_Trigger] > Java with keys:[(7, '$jspfb', b'jsp File browser'), (28701, '$jspfb', b'jsp File Browser'), (30599, '$jspfb', b'jsp file browser')]
+2019-09-07 15:43:00,869 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_6.jsp
+
+2019-09-07 15:43:00,877 - [_Trigger] > Java with keys:[(28575, '$key1', b'Process'), (28587, '$key2', b'Runtime'), (29650, '$key4', b'start'), (29865, '$key6', b'getInputStream'), (28608, '$key7', b'exec')]
+2019-09-07 15:43:00,877 - [_Trigger] > Java with keys:[(44331, '$key1', b'getParameter'), (24999, '$key2', b'FileOutputStream'), (23812, '$key3', b'File'), (25180, '$key5', b'write'), (65898, '$key5', b'print')]
+2019-09-07 15:43:00,878 - [_Trigger] > Java with keys:[(166, '$devilzShell', b'devilzShell')]
+2019-09-07 15:43:00,878 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_7.jsp
+
+2019-09-07 15:43:00,880 - [_Trigger] > Java with keys:[(35691, '$key1', b'Process'), (35703, '$key2', b'Runtime'), (3591, '$key4', b'start'), (21360, '$key6', b'getInputStream'), (35724, '$key7', b'exec')]
+2019-09-07 15:43:00,880 - [_Trigger] > Java with keys:[(418, '$key1', b'getParameter'), (9651, '$key2', b'FileOutputStream'), (49, '$key3', b'File'), (33797, '$key4', b'PrintWriter'), (455, '$key5', b'print'), (10364, '$key5', b'write')]
+2019-09-07 15:43:00,880 - [_Trigger] > Java with keys:[(34932, '$jspcoffee', b'www.kukafei520.net')]
+2019-09-07 15:43:00,880 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_8.jsp
+
+2019-09-07 15:43:00,882 - [_Trigger] > Java with keys:[(4244, '$key1', b'Process'), (4214, '$key2', b'Runtime'), (14509, '$key4', b'start'), (9666, '$key6', b'getInputStream'), (9411, '$key7', b'exec')]
+2019-09-07 15:43:00,882 - [_Trigger] > Java with keys:[(27471, '$key1', b'getParameter'), (6973, '$key2', b'FileOutputStream'), (546, '$key3', b'File'), (324, '$key5', b'print'), (2725, '$key5', b'write')]
+2019-09-07 15:43:00,882 - [_Trigger] > Java with keys:[(2341, '$jspSilic', b'Silic'), (22858, '$jspSilic', b'silic'), (178, '$jspmgrsystem2', b'Manage System - JSP')]
+2019-09-07 15:43:00,882 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_9.jsp
+
+2019-09-07 15:43:00,883 - [_Trigger] > Java with keys:[(58, '$key1', b'getParameter'), (311, '$key2', b'FileOutputStream'), (311, '$key3', b'File'), (271, '$key5', b'write')]
+2019-09-07 15:43:00,883 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_download_1.jsp
+
+2019-09-07 15:43:00,893 - [_Trigger] > Java with keys:[(3829, '$key1', b'getHeader'), (11038, '$key1', b'getParameter'), (24, '$key3', b'File'), (191, '$key4', b'PrintWriter'), (2247, '$key5', b'write'), (3049, '$key5', b'print')]
+2019-09-07 15:43:00,893 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_proxy_1.jsp
+
+2019-09-07 15:43:00,896 - [_Trigger] > Java with keys:[(1918, '$key1', b'Process'), (1866, '$key2', b'Runtime'), (2365, '$key4', b'start'), (2056, '$key6', b'getInputStream'), (1936, '$key7', b'exec')]
+2019-09-07 15:43:00,896 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_reversecmd_1.jsp
+
+2019-09-07 15:43:00,897 - [_Trigger] > Java with keys:[(8, '$key2', b'Runtime'), (48, '$key7', b'exec')]
+2019-09-07 15:43:00,897 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_reversecmd_2.jsp
+
+2019-09-07 15:43:00,899 - [_Trigger] > Java with keys:[(13406, '$key1', b'getParameter'), (6607, '$key2', b'FileOutputStream'), (1428, '$key3', b'File'), (6332, '$key5', b'print'), (7549, '$key5', b'write')]
+2019-09-07 15:43:00,899 - [_Trigger] > Java with keys:[(579, '$jspfilemgr', b'http://jmmm.com')]
+2019-09-07 15:43:00,899 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_uploaddownload_2.jsp
+
+2019-09-07 15:43:00,910 - [_Trigger] > Java with keys:[(176, '$key1', b'getParameter'), (464, '$key2', b'FileOutputStream'), (464, '$key3', b'File'), (504, '$key5', b'write'), (548, '$key5', b'print')]
+2019-09-07 15:43:00,910 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_1.jsp
+
+2019-09-07 15:43:00,911 - [_Trigger] > Java with keys:[(150, '$key1', b'getParameter'), (92, '$key2', b'FileOutputStream'), (92, '$key3', b'File'), (169, '$key5', b'write')]
+2019-09-07 15:43:00,911 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_1.jspx
+
+2019-09-07 15:43:00,912 - [_Trigger] > Java with keys:[(228, '$key1', b'getParameter'), (669, '$key3', b'File'), (702, '$key4', b'PrintWriter'), (714, '$key5', b'write'), (758, '$key5', b'print')]
+2019-09-07 15:43:00,912 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_10.jsp
+
+2019-09-07 15:43:00,913 - [_Trigger] > Java with keys:[(68, '$key1', b'getParameter'), (14, '$key2', b'FileOutputStream'), (14, '$key3', b'File'), (87, '$key5', b'write')]
+2019-09-07 15:43:00,913 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_11.jsp
+
+2019-09-07 15:43:00,915 - [_Trigger] > Java with keys:[(227, '$key1', b'getParameter'), (175, '$key2', b'FileOutputStream'), (81, '$key3', b'File'), (461, '$key5', b'write')]
+2019-09-07 15:43:00,916 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_12.jsp
+
+2019-09-07 15:43:00,917 - [_Trigger] > Java with keys:[(312, '$key1', b'getParameter'), (600, '$key2', b'FileOutputStream'), (600, '$key3', b'File'), (640, '$key5', b'write'), (684, '$key5', b'print')]
+2019-09-07 15:43:00,917 - [_Trigger] > Java with keys:[(132, '$jspdp', b'JspDo Code By')]
+2019-09-07 15:43:00,917 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_2.jsp
+
+2019-09-07 15:43:00,927 - [_Trigger] > Java with keys:[(13, '$key1', b'getParameter'), (46, '$key2', b'FileOutputStream'), (46, '$key3', b'File'), (263, '$key5', b'write')]
+2019-09-07 15:43:00,927 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_3.jsp
+
+2019-09-07 15:43:00,928 - [_Trigger] > Java with keys:[(39, '$key1', b'getParameter'), (14, '$key2', b'FileOutputStream'), (14, '$key3', b'File'), (58, '$key5', b'write')]
+2019-09-07 15:43:00,929 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_4.jsp
+
+2019-09-07 15:43:00,930 - [_Trigger] > Java with keys:[(593, '$key1', b'getHeader'), (2778, '$key2', b'FileOutputStream'), (165, '$key3', b'File'), (2169, '$key5', b'write'), (3620, '$key5', b'print')]
+2019-09-07 15:43:00,930 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_5.jsp
+
+2019-09-07 15:43:00,932 - [_Trigger] > Java with keys:[(368, '$key1', b'getParameter'), (312, '$key2', b'RandomAccessFile'), (4347, '$key2', b'FileOutputStream'), (324, '$key3', b'File'), (397, '$key5', b'write'), (6424, '$key5', b'print')]
+2019-09-07 15:43:00,932 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_6.jsp
+
+2019-09-07 15:43:00,933 - [_Trigger] > Java with keys:[(192, '$key1', b'getParameter'), (87, '$key2', b'FileHandler'), (20, '$key3', b'Logger'), (289, '$key4', b'.info')]
+2019-09-07 15:43:00,933 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_7.jsp
+
+2019-09-07 15:43:00,934 - [_Trigger] > Java with keys:[(72, '$key1', b'getParameter'), (14, '$key2', b'FileOutputStream'), (14, '$key3', b'File'), (91, '$key5', b'write')]
+2019-09-07 15:43:00,934 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_8.jsp
+
+2019-09-07 15:43:00,937 - [_Trigger] > Java with keys:[(39, '$key1', b'getParameter'), (14, '$key2', b'RandomAccessFile'), (26, '$key3', b'File'), (63, '$key5', b'write')]
+2019-09-07 15:43:00,938 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_9.jsp
+
+2019-09-07 15:43:20,527 - [_Trigger] > Java with keys:[(8391, '$key1', b'Process'), (8403, '$key2', b'Runtime'), (3843, '$key6', b'getInputStream'), (5075, '$key7', b'exec')]
+2019-09-07 15:43:20,528 - [_Trigger] > Java with keys:[(6746, '$key1', b'getParameter'), (2419, '$key2', b'FileOutputStream'), (810, '$key3', b'File'), (2095, '$key5', b'write'), (8912, '$key5', b'print')]
+2019-09-07 15:43:20,528 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_1.jsp
+
+2019-09-07 15:43:20,531 - [_Trigger] > Java with keys:[(7112, '$key1', b'Process'), (7122, '$key2', b'Runtime'), (3447, '$key6', b'getInputStream'), (4454, '$key7', b'exec')]
+2019-09-07 15:43:20,532 - [_Trigger] > Java with keys:[(5808, '$key1', b'getParameter'), (2318, '$key2', b'FileOutputStream'), (1060, '$key3', b'File'), (2066, '$key5', b'write'), (7538, '$key5', b'print')]
+2019-09-07 15:43:20,532 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_1.jspx
+
+2019-09-07 15:43:20,537 - [_Trigger] > Java with keys:[(6691, '$key1', b'Process'), (6701, '$key2', b'Runtime'), (3064, '$key6', b'getInputStream'), (4071, '$key7', b'exec')]
+2019-09-07 15:43:20,539 - [_Trigger] > Java with keys:[(5387, '$key1', b'getParameter'), (1947, '$key2', b'FileOutputStream'), (701, '$key3', b'File'), (1698, '$key5', b'write'), (7114, '$key5', b'print')]
+2019-09-07 15:43:20,539 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_2.jsp
+
+2019-09-07 15:43:20,541 - [_Trigger] > Java with keys:[(7112, '$key1', b'Process'), (7122, '$key2', b'Runtime'), (3447, '$key6', b'getInputStream'), (4454, '$key7', b'exec')]
+2019-09-07 15:43:20,541 - [_Trigger] > Java with keys:[(5808, '$key1', b'getParameter'), (2318, '$key2', b'FileOutputStream'), (1060, '$key3', b'File'), (2066, '$key5', b'write'), (7538, '$key5', b'print')]
+2019-09-07 15:43:20,542 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_2.jspx
+
+2019-09-07 15:43:20,545 - [_Trigger] > Java with keys:[(6698, '$key1', b'Process'), (6708, '$key2', b'Runtime'), (3064, '$key6', b'getInputStream'), (4071, '$key7', b'exec')]
+2019-09-07 15:43:20,545 - [_Trigger] > Java with keys:[(5394, '$key1', b'getParameter'), (1947, '$key2', b'FileOutputStream'), (701, '$key3', b'File'), (1698, '$key5', b'write'), (7121, '$key5', b'print')]
+2019-09-07 15:43:20,546 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_3.jsp
+
+2019-09-07 15:43:20,552 - [_Trigger] > Java with keys:[(8205, '$key1', b'Process'), (8215, '$key2', b'Runtime'), (5140, '$key6', b'getInputStream'), (6032, '$key7', b'exec')]
+2019-09-07 15:43:20,552 - [_Trigger] > Java with keys:[(6884, '$key1', b'getParameter'), (4012, '$key2', b'FileOutputStream'), (2743, '$key3', b'File'), (3752, '$key5', b'write'), (8529, '$key5', b'print')]
+2019-09-07 15:43:20,552 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_4.jsp
+
+2019-09-07 15:43:20,556 - [_Trigger] > Java with keys:[(351, '$key1', b'Process'), (363, '$key2', b'Runtime'), (484, '$key6', b'getInputStream'), (384, '$key7', b'exec')]
+2019-09-07 15:43:20,556 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_1.jsp
+
+2019-09-07 15:43:20,557 - [_Trigger] > Java with keys:[(574, '$key1', b'Process'), (586, '$key2', b'Runtime'), (640, '$key6', b'getInputStream'), (607, '$key7', b'exec')]
+2019-09-07 15:43:20,557 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_1.jspx
+
+2019-09-07 15:43:20,558 - [_Trigger] > Java with keys:[(818, '$key1', b'Process'), (27, '$key5', b'Scanner'), (1099, '$key6', b'getInputStream')]
+2019-09-07 15:43:20,559 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_10.jsp
+
+2019-09-07 15:43:20,567 - [_Trigger] > Java with keys:[(1248, '$key1', b'Process'), (98, '$key5', b'Scanner'), (1424, '$key6', b'getInputStream')]
+2019-09-07 15:43:20,567 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_11.jsp
+
+2019-09-07 15:43:20,568 - [_Trigger] > Java with keys:[(351, '$key1', b'Process'), (363, '$key2', b'Runtime'), (484, '$key6', b'getInputStream'), (384, '$key7', b'exec')]
+2019-09-07 15:43:20,569 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_12.jsp
+
+2019-09-07 15:43:20,570 - [_Trigger] > Java with keys:[(2, '$key2', b'Runtime'), (23, '$key7', b'exec')]
+2019-09-07 15:43:20,570 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_2.jsp
+
+2019-09-07 15:43:20,571 - [_Trigger] > Java with keys:[(157, '$key2', b'Runtime'), (178, '$key7', b'exec')]
+2019-09-07 15:43:20,571 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_2.jspx
+
+2019-09-07 15:43:20,572 - [_Trigger] > Java with keys:[(89, '$key2', b'Runtime'), (142, '$key6', b'getInputStream'), (110, '$key7', b'exec')]
+2019-09-07 15:43:20,572 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_3.jsp
+
+2019-09-07 15:43:20,573 - [_Trigger] > Java with keys:[(243, '$key2', b'Runtime'), (296, '$key6', b'getInputStream'), (264, '$key7', b'exec')]
+2019-09-07 15:43:20,573 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_3.jspx
+
+2019-09-07 15:43:20,574 - [_Trigger] > Java with keys:[(227, '$key1', b'Jython'), (1597, '$key2', b'DefaultConsoleImpl'), (535, '$key3', b'PythonInterpreter')]
+2019-09-07 15:43:20,575 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_4.jsp
+
+2019-09-07 15:43:20,587 - [_Trigger] > Java with keys:[(507, '$key1', b'Process'), (523, '$key2', b'Runtime'), (582, '$key6', b'getInputStream'), (544, '$key7', b'exec')]
+2019-09-07 15:43:20,587 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_4.jspx
+
+2019-09-07 15:43:20,588 - [_Trigger] > Java with keys:[(1900, '$key1', b'Process'), (1848, '$key2', b'Runtime'), (2347, '$key4', b'start'), (2038, '$key6', b'getInputStream'), (1918, '$key7', b'exec')]
+2019-09-07 15:43:20,588 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_5.jsp
+
+2019-09-07 15:43:20,589 - [_Trigger] > Java with keys:[(574, '$key1', b'Process'), (586, '$key2', b'Runtime'), (640, '$key6', b'getInputStream'), (607, '$key7', b'exec')]
+2019-09-07 15:43:20,589 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_5.jspx
+
+2019-09-07 15:43:20,591 - [_Trigger] > Java with keys:[(191, '$key1', b'Process'), (203, '$key2', b'Runtime'), (298, '$key6', b'getInputStream'), (224, '$key7', b'exec')]
+2019-09-07 15:43:20,591 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_6.jsp
+
+2019-09-07 15:43:20,592 - [_Trigger] > Java with keys:[(157, '$key2', b'Runtime'), (178, '$key7', b'exec')]
+2019-09-07 15:43:20,592 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_6.jspx
+
+2019-09-07 15:43:20,598 - [_Trigger] > Java with keys:[(277707, '$key1', b'Process'), (277719, '$key2', b'Runtime'), (66645, '$key4', b'start'), (277829, '$key6', b'getInputStream'), (4882, '$key7', b'exec')]
+2019-09-07 15:43:20,598 - [_Trigger] > Java with keys:[(975, '$key1', b'getParameter'), (68, '$key3', b'File'), (278260, '$key4', b'PrintWriter'), (273177, '$key5', b'print')]
+2019-09-07 15:43:20,600 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_7.jsp
+
+2019-09-07 15:43:20,605 - [_Trigger] > Java with keys:[(243, '$key2', b'Runtime'), (296, '$key6', b'getInputStream'), (264, '$key7', b'exec')]
+2019-09-07 15:43:20,605 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_7.jspx
+
+2019-09-07 15:43:20,606 - [_Trigger] > Java with keys:[(392, '$key1', b'Process'), (408, '$key2', b'Runtime'), (466, '$key6', b'getInputStream'), (429, '$key7', b'exec')]
+2019-09-07 15:43:20,607 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_8.jsp
+
+2019-09-07 15:43:20,608 - [_Trigger] > Java with keys:[(507, '$key1', b'Process'), (523, '$key2', b'Runtime'), (582, '$key6', b'getInputStream'), (544, '$key7', b'exec')]
+2019-09-07 15:43:20,608 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_8.jspx
+
+2019-09-07 15:43:20,609 - [_Trigger] > Java with keys:[(587, '$key1', b'Process'), (587, '$key3', b'ProcessBuilder'), (940, '$key4', b'start'), (60, '$key5', b'Scanner'), (991, '$key6', b'getInputStream')]
+2019-09-07 15:43:20,609 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_9.jsp
+
+2019-09-07 15:43:20,611 - [_Trigger] > Java with keys:[(2353, '$key2', b'Runtime'), (2384, '$key6', b'getInputStream'), (2278, '$key7', b'exec')]
+2019-09-07 15:43:20,611 - [_Trigger] > Java with keys:[(5483, '$key1', b'getParameter'), (1682, '$key2', b'FileOutputStream'), (1626, '$key3', b'File'), (639, '$key4', b'PrintWriter'), (619, '$key5', b'print'), (1424, '$key5', b'write')]
+2019-09-07 15:43:20,612 - [_Trigger] > Java with keys:[(3023, '$key1', b'shell'), (5966, '$key2', b'downloadL'), (2278, '$key3', b'exec'), (1858, '$key4', b'cat'), (3660, '$key5', b'auto'), (6509, '$key5', b'Auto'), (2684, '$key6', b'download')]
+2019-09-07 15:43:20,612 - [_Trigger] > Java with keys:[]
+2019-09-07 15:43:20,612 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_1.jsp
+
+2019-09-07 15:43:20,624 - [_Trigger] > Java with keys:[(9304, '$key1', b'Process'), (67542, '$key2', b'Runtime'), (5301, '$key4', b'start'), (17511, '$key6', b'getInputStream'), (3450, '$key7', b'exec')]
+2019-09-07 15:43:20,625 - [_Trigger] > Java with keys:[(2338, '$key1', b'getParameter'), (101605, '$key1', b'getHeader'), (18103, '$key2', b'FileOutputStream'), (5819, '$key3', b'File'), (20745, '$key4', b'PrintWriter'), (4781, '$key5', b'write'), (20790, '$key5', b'print')]
+2019-09-07 15:43:20,625 - [_Trigger] > Java with keys:[(1172, '$jspspy', b'JspSpy'), (43526, '$jspspy', b'jspspy')]
+2019-09-07 15:43:20,625 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_1.jspx
+
+2019-09-07 15:43:20,628 - [_Trigger] > Java with keys:[(8897, '$key1', b'Process'), (66972, '$key2', b'Runtime'), (4894, '$key4', b'start'), (17104, '$key6', b'getInputStream'), (3043, '$key7', b'exec')]
+2019-09-07 15:43:20,628 - [_Trigger] > Java with keys:[(1931, '$key1', b'getParameter'), (101047, '$key1', b'getHeader'), (17696, '$key2', b'FileOutputStream'), (5412, '$key3', b'File'), (20257, '$key4', b'PrintWriter'), (4374, '$key5', b'write'), (20302, '$key5', b'print')]
+2019-09-07 15:43:20,628 - [_Trigger] > Java with keys:[(765, '$jspspy', b'JspSpy'), (43039, '$jspspy', b'jspspy')]
+2019-09-07 15:43:20,629 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_10.jsp
+
+2019-09-07 15:43:20,631 - [_Trigger] > Java with keys:[(4244, '$key1', b'Process'), (4214, '$key2', b'Runtime'), (14509, '$key4', b'start'), (9666, '$key6', b'getInputStream'), (9411, '$key7', b'exec')]
+2019-09-07 15:43:20,632 - [_Trigger] > Java with keys:[(27471, '$key1', b'getParameter'), (6973, '$key2', b'FileOutputStream'), (546, '$key3', b'File'), (324, '$key5', b'print'), (2725, '$key5', b'write')]
+2019-09-07 15:43:20,633 - [_Trigger] > Java with keys:[(2341, '$jspSilic', b'Silic'), (22858, '$jspSilic', b'silic'), (178, '$jspmgrsystem2', b'Manage System - JSP')]
+2019-09-07 15:43:20,633 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_11.jsp
+
+2019-09-07 15:43:20,638 - [_Trigger] > Java with keys:[(2585, '$key1', b'Process'), (2616, '$key2', b'Runtime'), (2398, '$key4', b'start'), (2745, '$key6', b'getInputStream'), (2206, '$key7', b'exec')]
+2019-09-07 15:43:20,638 - [_Trigger] > Java with keys:[(3960, '$key1', b'getParameter'), (28137, '$key1', b'getHeader'), (6639, '$key2', b'FileOutputStream'), (6639, '$key3', b'File'), (4291, '$key5', b'print'), (6920, '$key5', b'write')]
+2019-09-07 15:43:20,638 - [_Trigger] > Java with keys:[(1277, '$jspwebmgr', b'http://www.shack2.org')]
+2019-09-07 15:43:20,639 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_12.jsp
+
+2019-09-07 15:43:20,640 - [_Trigger] > Java with keys:[(35691, '$key1', b'Process'), (35703, '$key2', b'Runtime'), (3591, '$key4', b'start'), (21360, '$key6', b'getInputStream'), (35724, '$key7', b'exec')]
+2019-09-07 15:43:20,640 - [_Trigger] > Java with keys:[(418, '$key1', b'getParameter'), (9651, '$key2', b'FileOutputStream'), (49, '$key3', b'File'), (33797, '$key4', b'PrintWriter'), (455, '$key5', b'print'), (10364, '$key5', b'write')]
+2019-09-07 15:43:20,640 - [_Trigger] > Java with keys:[(34932, '$jspcoffee', b'www.kukafei520.net')]
+2019-09-07 15:43:20,641 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_13.jsp
+
+2019-09-07 15:43:20,643 - [_Trigger] > Java with keys:[(3882, '$key1', b'Process'), (54638, '$key2', b'Runtime'), (20760, '$key4', b'start'), (9613, '$key6', b'getInputStream'), (2411, '$key7', b'exec')]
+2019-09-07 15:43:20,644 - [_Trigger] > Java with keys:[(1493, '$key1', b'getParameter'), (77462, '$key1', b'getHeader'), (10085, '$key2', b'FileOutputStream'), (9876, '$key3', b'File'), (12534, '$key4', b'PrintWriter'), (3687, '$key5', b'write'), (10605, '$key5', b'print')]
+2019-09-07 15:43:20,644 - [_Trigger] > Java with keys:[(777, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:20,644 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_2.jsp
+
+2019-09-07 15:43:20,646 - [_Trigger] > Java with keys:[(1311, '$key1', b'Process'), (1269, '$key2', b'Runtime'), (17362, '$key4', b'start'), (1527, '$key6', b'getInputStream'), (1474, '$key7', b'exec')]
+2019-09-07 15:43:20,646 - [_Trigger] > Java with keys:[(31973, '$key1', b'getParameter'), (19086, '$key2', b'FileOutputStream'), (415, '$key3', b'File'), (10582, '$key5', b'write'), (32881, '$key5', b'print')]
+2019-09-07 15:43:20,646 - [_Trigger] > Java with keys:[(31245, '$jshell', b'jshell ver')]
+2019-09-07 15:43:20,646 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_3.jsp
+
+2019-09-07 15:43:20,653 - [_Trigger] > Java with keys:[(22302, '$key1', b'Process'), (22626, '$key2', b'Runtime'), (5127, '$key4', b'start'), (22778, '$key6', b'getInputStream'), (22647, '$key7', b'exec')]
+2019-09-07 15:43:20,654 - [_Trigger] > Java with keys:[(26112, '$key1', b'getParameter'), (11400, '$key2', b'FileOutputStream'), (11, '$key3', b'File'), (661, '$key5', b'write'), (41340, '$key5', b'print')]
+2019-09-07 15:43:20,654 - [_Trigger] > Java with keys:[(7, '$jspfb', b'jsp File browser'), (33924, '$jspfb', b'jsp File Browser'), (35829, '$jspfb', b'jsp file browser')]
+2019-09-07 15:43:20,654 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_4.jsp
+
+2019-09-07 15:43:20,656 - [_Trigger] > Java with keys:[(29050, '$key1', b'Process'), (29060, '$key2', b'Runtime'), (2032, '$key4', b'start'), (18454, '$key6', b'getInputStream'), (29081, '$key7', b'exec')]
+2019-09-07 15:43:20,656 - [_Trigger] > Java with keys:[(12594, '$key1', b'getParameter'), (7918, '$key2', b'FileOutputStream'), (381, '$key3', b'File'), (8606, '$key5', b'write'), (25148, '$key5', b'print')]
+2019-09-07 15:43:20,657 - [_Trigger] > Java with keys:[(54, '$jfolder', b'JFolder.jsp')]
+2019-09-07 15:43:20,657 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_5.jsp
+
+2019-09-07 15:43:20,658 - [_Trigger] > Java with keys:[(13587, '$key1', b'getParameter'), (6750, '$key2', b'FileOutputStream'), (1515, '$key3', b'File'), (6475, '$key5', b'print'), (7692, '$key5', b'write')]
+2019-09-07 15:43:20,659 - [_Trigger] > Java with keys:[(584, '$jspfilemgr', b'http://jmmm.com')]
+2019-09-07 15:43:20,659 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_6.jsp
+
+2019-09-07 15:43:20,660 - [_Trigger] > Java with keys:[(21160, '$key1', b'Process'), (21484, '$key2', b'Runtime'), (3985, '$key4', b'start'), (21636, '$key6', b'getInputStream'), (21505, '$key7', b'exec')]
+2019-09-07 15:43:20,661 - [_Trigger] > Java with keys:[(24970, '$key1', b'getParameter'), (10258, '$key2', b'FileOutputStream'), (3055, '$key3', b'File'), (10946, '$key5', b'write'), (40194, '$key5', b'print')]
+2019-09-07 15:43:20,661 - [_Trigger] > Java with keys:[(32782, '$jspfb', b'jsp File Browser'), (34687, '$jspfb', b'jsp file browser')]
+2019-09-07 15:43:20,661 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_7.jsp
+
+2019-09-07 15:43:20,669 - [_Trigger] > Java with keys:[(3061, '$key1', b'Process'), (3019, '$key2', b'Runtime'), (23932, '$key4', b'start'), (3277, '$key6', b'getInputStream'), (3224, '$key7', b'exec')]
+2019-09-07 15:43:20,669 - [_Trigger] > Java with keys:[(611, '$key1', b'getParameter'), (3781, '$key2', b'FileOutputStream'), (23258, '$key2', b'RandomAccessFile'), (89, '$key3', b'File'), (1367, '$key4', b'PrintWriter'), (1088, '$key5', b'print'), (1251, '$key5', b'write')]
+2019-09-07 15:43:20,669 - [_Trigger] > Java with keys:[(200, '$jspwebshell', b'JspWebshell'), (5826, '$jspwebshell', b'JspWebShell')]
+2019-09-07 15:43:20,669 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_8.jsp
+
+2019-09-07 15:43:20,671 - [_Trigger] > Java with keys:[(13464, '$key1', b'Process'), (13426, '$key2', b'Runtime'), (7924, '$key4', b'start'), (13589, '$key6', b'getInputStream'), (13544, '$key7', b'exec')]
+2019-09-07 15:43:20,671 - [_Trigger] > Java with keys:[(1287, '$key1', b'getParameter'), (15542, '$key2', b'FileOutputStream'), (1119, '$key3', b'File'), (1464, '$key5', b'print'), (15576, '$key5', b'write')]
+2019-09-07 15:43:20,671 - [_Trigger] > Java with keys:[(153, '$jspspy', b'Jspspy'), (902, '$jspspy', b'jspspy'), (1638, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:20,671 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_9.jsp
+
+2019-09-07 15:43:20,673 - [_Trigger] > Java with keys:[(394, '$key1', b'getParameter'), (761, '$key2', b'FileOutputStream'), (761, '$key3', b'File'), (808, '$key5', b'write'), (859, '$key5', b'print')]
+2019-09-07 15:43:20,673 - [_Trigger] > Java with keys:[(165, '$jspdp', b'JspDo Code By')]
+2019-09-07 15:43:20,674 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_1.jsp
+
+2019-09-07 15:43:20,676 - [_Trigger] > Java with keys:[(13, '$key1', b'getParameter'), (50, '$key2', b'FileOutputStream'), (50, '$key3', b'File'), (124, '$key5', b'write')]
+2019-09-07 15:43:20,676 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_10.jsp
+
+2019-09-07 15:43:20,683 - [_Trigger] > Java with keys:[(358, '$key1', b'getParameter'), (670, '$key2', b'FileOutputStream'), (670, '$key3', b'File'), (714, '$key5', b'write'), (762, '$key5', b'print')]
+2019-09-07 15:43:20,683 - [_Trigger] > Java with keys:[(150, '$jspdp', b'JspDo Code By')]
+2019-09-07 15:43:20,684 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_11.jsp
+
+2019-09-07 15:43:20,685 - [_Trigger] > Java with keys:[(403, '$key1', b'getParameter'), (773, '$key3', b'File'), (1267, '$key4', b'PrintWriter'), (1414, '$key5', b'print'), (1419, '$key5', b'write')]
+2019-09-07 15:43:20,685 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_12.jsp
+
+2019-09-07 15:43:20,687 - [_Trigger] > Java with keys:[(230, '$key1', b'getParameter'), (699, '$key3', b'File'), (734, '$key4', b'PrintWriter'), (746, '$key5', b'write'), (792, '$key5', b'print')]
+2019-09-07 15:43:20,687 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_13.jsp
+
+2019-09-07 15:43:20,688 - [_Trigger] > Java with keys:[(593, '$key1', b'getHeader'), (2778, '$key2', b'FileOutputStream'), (165, '$key3', b'File'), (2169, '$key5', b'write'), (3620, '$key5', b'print')]
+2019-09-07 15:43:20,688 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_2.jsp
+
+2019-09-07 15:43:20,689 - [_Trigger] > Java with keys:[(230, '$key1', b'getParameter'), (699, '$key3', b'File'), (734, '$key4', b'PrintWriter'), (746, '$key5', b'write'), (792, '$key5', b'print')]
+2019-09-07 15:43:20,690 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_3.jsp
+
+2019-09-07 15:43:20,691 - [_Trigger] > Java with keys:[(176, '$key1', b'getParameter'), (464, '$key2', b'FileOutputStream'), (464, '$key3', b'File'), (504, '$key5', b'write'), (548, '$key5', b'print')]
+2019-09-07 15:43:20,691 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_4.jsp
+
+2019-09-07 15:43:20,701 - [_Trigger] > Java with keys:[(232, '$key1', b'getParameter'), (701, '$key3', b'File'), (736, '$key4', b'PrintWriter'), (748, '$key5', b'write'), (794, '$key5', b'print')]
+2019-09-07 15:43:20,702 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_5.jsp
+
+2019-09-07 15:43:20,703 - [_Trigger] > Java with keys:[(227, '$key1', b'getParameter'), (175, '$key2', b'FileOutputStream'), (81, '$key3', b'File'), (461, '$key5', b'write')]
+2019-09-07 15:43:20,703 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_6.jsp
+
+2019-09-07 15:43:20,705 - [_Trigger] > Java with keys:[(101, '$key1', b'getParameter'), (368, '$key2', b'FileOutputStream'), (123, '$key3', b'File'), (446, '$key5', b'write'), (484, '$key5', b'print')]
+2019-09-07 15:43:20,706 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_7.jsp
+
+2019-09-07 15:43:20,708 - [_Trigger] > Java with keys:[(417, '$key1', b'getParameter'), (181, '$key2', b'FileOutputStream'), (83, '$key3', b'File'), (717, '$key5', b'write')]
+2019-09-07 15:43:20,708 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_8.jsp
+
+2019-09-07 15:43:20,709 - [_Trigger] > Java with keys:[(228, '$key1', b'getParameter'), (669, '$key3', b'File'), (702, '$key4', b'PrintWriter'), (714, '$key5', b'write'), (758, '$key5', b'print')]
+2019-09-07 15:43:20,710 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_9.jsp
+
+2019-09-07 15:43:20,719 - [_Trigger] > Java with keys:[(6694, '$key1', b'Process'), (6704, '$key2', b'Runtime'), (3067, '$key6', b'getInputStream'), (4074, '$key7', b'exec')]
+2019-09-07 15:43:20,719 - [_Trigger] > Java with keys:[(5390, '$key1', b'getParameter'), (1950, '$key2', b'FileOutputStream'), (704, '$key3', b'File'), (1701, '$key5', b'write'), (7117, '$key5', b'print')]
+2019-09-07 15:43:20,719 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_1.jsp
+
+2019-09-07 15:43:20,720 - [_Trigger] > Java with keys:[(7112, '$key1', b'Process'), (7122, '$key2', b'Runtime'), (3447, '$key6', b'getInputStream'), (4454, '$key7', b'exec')]
+2019-09-07 15:43:20,721 - [_Trigger] > Java with keys:[(5808, '$key1', b'getParameter'), (2318, '$key2', b'FileOutputStream'), (1060, '$key3', b'File'), (2066, '$key5', b'write'), (7538, '$key5', b'print')]
+2019-09-07 15:43:20,721 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_1.jspx
+
+2019-09-07 15:43:20,723 - [_Trigger] > Java with keys:[(5931, '$key1', b'Process'), (5941, '$key2', b'Runtime'), (2866, '$key6', b'getInputStream'), (3758, '$key7', b'exec')]
+2019-09-07 15:43:20,723 - [_Trigger] > Java with keys:[(4610, '$key1', b'getParameter'), (1738, '$key2', b'FileOutputStream'), (469, '$key3', b'File'), (1478, '$key5', b'write'), (6255, '$key5', b'print')]
+2019-09-07 15:43:20,723 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_2.jsp
+
+2019-09-07 15:43:20,724 - [_Trigger] > Java with keys:[(7118, '$key1', b'Process'), (7128, '$key2', b'Runtime'), (3453, '$key6', b'getInputStream'), (4460, '$key7', b'exec')]
+2019-09-07 15:43:20,724 - [_Trigger] > Java with keys:[(5814, '$key1', b'getParameter'), (2324, '$key2', b'FileOutputStream'), (1066, '$key3', b'File'), (2072, '$key5', b'write'), (7544, '$key5', b'print')]
+2019-09-07 15:43:20,725 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_2.jspx
+
+2019-09-07 15:43:20,726 - [_Trigger] > Java with keys:[(10308, '$key1', b'Process'), (10320, '$key2', b'Runtime'), (10021, '$key4', b'start'), (9218, '$key6', b'getInputStream'), (1930, '$key7', b'exec')]
+2019-09-07 15:43:20,726 - [_Trigger] > Java with keys:[(12431, '$key1', b'getParameter'), (5768, '$key2', b'FileOutputStream'), (4219, '$key3', b'File'), (5820, '$key5', b'write'), (10736, '$key5', b'print')]
+2019-09-07 15:43:20,726 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_3.jsp
+
+2019-09-07 15:43:20,727 - [_Trigger] > Java with keys:[(7304, '$key1', b'Process'), (7314, '$key2', b'Runtime'), (3639, '$key6', b'getInputStream'), (4646, '$key7', b'exec')]
+2019-09-07 15:43:20,727 - [_Trigger] > Java with keys:[(6000, '$key1', b'getParameter'), (2504, '$key2', b'FileOutputStream'), (1156, '$key3', b'File'), (2234, '$key5', b'write'), (7730, '$key5', b'print')]
+2019-09-07 15:43:20,728 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_3.jspx
+
+2019-09-07 15:43:20,739 - [_Trigger] > Java with keys:[(8205, '$key1', b'Process'), (8215, '$key2', b'Runtime'), (5140, '$key6', b'getInputStream'), (6032, '$key7', b'exec')]
+2019-09-07 15:43:20,739 - [_Trigger] > Java with keys:[(6884, '$key1', b'getParameter'), (4012, '$key2', b'FileOutputStream'), (2743, '$key3', b'File'), (3752, '$key5', b'write'), (8529, '$key5', b'print')]
+2019-09-07 15:43:20,739 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_4.jsp
+
+2019-09-07 15:43:20,740 - [_Trigger] > Java with keys:[(320, '$key1', b'Process'), (332, '$key2', b'Runtime'), (446, '$key6', b'getInputStream'), (353, '$key7', b'exec')]
+2019-09-07 15:43:20,740 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_1.jsp
+
+2019-09-07 15:43:20,741 - [_Trigger] > Java with keys:[(243, '$key2', b'Runtime'), (296, '$key6', b'getInputStream'), (264, '$key7', b'exec')]
+2019-09-07 15:43:20,741 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_1.jspx
+
+2019-09-07 15:43:20,742 - [_Trigger] > Java with keys:[(193, '$key1', b'Process'), (205, '$key2', b'Runtime'), (348, '$key6', b'getInputStream'), (230, '$key7', b'exec')]
+2019-09-07 15:43:20,742 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_10.jsp
+
+2019-09-07 15:43:20,743 - [_Trigger] > Java with keys:[(336, '$key1', b'Process'), (349, '$key2', b'Runtime'), (465, '$key6', b'getInputStream'), (370, '$key7', b'exec')]
+2019-09-07 15:43:20,744 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_12.jsp
+
+2019-09-07 15:43:20,745 - [_Trigger] > Java with keys:[(392, '$key1', b'Process'), (408, '$key2', b'Runtime'), (466, '$key6', b'getInputStream'), (429, '$key7', b'exec')]
+2019-09-07 15:43:20,745 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_13.jsp
+
+2019-09-07 15:43:20,756 - [_Trigger] > Java with keys:[(732, '$key1', b'Process'), (685, '$key2', b'Runtime'), (947, '$key6', b'getInputStream'), (774, '$key7', b'exec')]
+2019-09-07 15:43:20,756 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_14.jsp
+
+2019-09-07 15:43:20,757 - [_Trigger] > Java with keys:[(289, '$key1', b'Process'), (301, '$key2', b'Runtime'), (422, '$key6', b'getInputStream'), (322, '$key7', b'exec')]
+2019-09-07 15:43:20,758 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_2.jsp
+
+2019-09-07 15:43:20,759 - [_Trigger] > Java with keys:[(574, '$key1', b'Process'), (586, '$key2', b'Runtime'), (640, '$key6', b'getInputStream'), (607, '$key7', b'exec')]
+2019-09-07 15:43:20,759 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_2.jspx
+
+2019-09-07 15:43:20,760 - [_Trigger] > Java with keys:[(192, '$key1', b'Process'), (1102, '$key2', b'Runtime'), (1522, '$key4', b'start'), (1382, '$key6', b'getInputStream'), (1287, '$key7', b'exec')]
+2019-09-07 15:43:20,761 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_3.jsp
+
+2019-09-07 15:43:20,762 - [_Trigger] > Java with keys:[(157, '$key2', b'Runtime'), (178, '$key7', b'exec')]
+2019-09-07 15:43:20,763 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_3.jspx
+
+2019-09-07 15:43:20,769 - [_Trigger] > Java with keys:[(192, '$key1', b'Process'), (204, '$key2', b'Runtime'), (299, '$key6', b'getInputStream'), (225, '$key7', b'exec')]
+2019-09-07 15:43:20,770 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_4.jsp
+
+2019-09-07 15:43:20,780 - [_Trigger] > Java with keys:[(507, '$key1', b'Process'), (523, '$key2', b'Runtime'), (582, '$key6', b'getInputStream'), (544, '$key7', b'exec')]
+2019-09-07 15:43:20,780 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_4.jspx
+
+2019-09-07 15:43:20,785 - [_Trigger] > Java with keys:[(277707, '$key1', b'Process'), (277719, '$key2', b'Runtime'), (66645, '$key4', b'start'), (277829, '$key6', b'getInputStream'), (4882, '$key7', b'exec')]
+2019-09-07 15:43:20,786 - [_Trigger] > Java with keys:[(975, '$key1', b'getParameter'), (68, '$key3', b'File'), (278260, '$key4', b'PrintWriter'), (273177, '$key5', b'print')]
+2019-09-07 15:43:20,786 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_5.jsp
+
+2019-09-07 15:43:20,790 - [_Trigger] > Java with keys:[(227, '$key1', b'Jython'), (1597, '$key2', b'DefaultConsoleImpl'), (535, '$key3', b'PythonInterpreter')]
+2019-09-07 15:43:20,791 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_6.jsp
+
+2019-09-07 15:43:20,792 - [_Trigger] > Java with keys:[(25, '$key2', b'Runtime'), (17, '$key5', b'Scanner'), (80, '$key6', b'getInputStream'), (46, '$key7', b'exec')]
+2019-09-07 15:43:20,793 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_7.jsp
+
+2019-09-07 15:43:20,794 - [_Trigger] > Java with keys:[(719, '$key1', b'Process'), (185, '$key2', b'Runtime'), (815, '$key6', b'getInputStream'), (733, '$key7', b'exec')]
+2019-09-07 15:43:20,795 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_8.jsp
+
+2019-09-07 15:43:20,800 - [_Trigger] > Java with keys:[(447, '$key1', b'Process'), (459, '$key2', b'Runtime'), (607, '$key6', b'getInputStream'), (480, '$key7', b'exec')]
+2019-09-07 15:43:20,801 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_9.jsp
+
+2019-09-07 15:43:20,807 - [_Trigger] > Java with keys:[(3168, '$key1', b'Process'), (3125, '$key2', b'Runtime'), (24691, '$key4', b'start'), (3394, '$key6', b'getInputStream'), (3339, '$key7', b'exec')]
+2019-09-07 15:43:20,808 - [_Trigger] > Java with keys:[(640, '$key1', b'getParameter'), (3931, '$key2', b'FileOutputStream'), (24017, '$key2', b'RandomAccessFile'), (90, '$key3', b'File'), (1428, '$key4', b'PrintWriter'), (1138, '$key5', b'print'), (1312, '$key5', b'write')]
+2019-09-07 15:43:20,808 - [_Trigger] > Java with keys:[(201, '$jspwebshell', b'JspWebshell'), (6104, '$jspwebshell', b'JspWebShell')]
+2019-09-07 15:43:20,808 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_1.jsp
+
+2019-09-07 15:43:20,810 - [_Trigger] > Java with keys:[(2479, '$key2', b'Runtime'), (2510, '$key6', b'getInputStream'), (2402, '$key7', b'exec')]
+2019-09-07 15:43:20,810 - [_Trigger] > Java with keys:[(4124, '$key1', b'getParameter'), (1771, '$key2', b'FileOutputStream'), (1714, '$key3', b'File'), (652, '$key4', b'PrintWriter'), (632, '$key5', b'print'), (1494, '$key5', b'write')]
+2019-09-07 15:43:20,811 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_1.jspx
+
+2019-09-07 15:43:20,812 - [_Trigger] > Java with keys:[(13430, '$key1', b'Process'), (13392, '$key2', b'Runtime'), (7890, '$key4', b'start'), (13555, '$key6', b'getInputStream'), (13510, '$key7', b'exec')]
+2019-09-07 15:43:20,813 - [_Trigger] > Java with keys:[(1277, '$key1', b'getParameter'), (15508, '$key2', b'FileOutputStream'), (1109, '$key3', b'File'), (1454, '$key5', b'print'), (15542, '$key5', b'write')]
+2019-09-07 15:43:20,813 - [_Trigger] > Java with keys:[(153, '$jspspy', b'Jspspy'), (902, '$jspspy', b'jspspy'), (1628, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:20,813 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_10.jsp
+
+2019-09-07 15:43:20,816 - [_Trigger] > Java with keys:[(3864, '$key1', b'Process'), (1704, '$key2', b'Runtime'), (1633, '$key4', b'start'), (4192, '$key6', b'getInputStream'), (3772, '$key7', b'exec')]
+2019-09-07 15:43:20,816 - [_Trigger] > Java with keys:[(771, '$key1', b'getParameter'), (14028, '$key2', b'FileOutputStream'), (3056, '$key3', b'File'), (3219, '$key5', b'write'), (4388, '$key5', b'print')]
+2019-09-07 15:43:20,816 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_11.jsp
+
+2019-09-07 15:43:20,823 - [_Trigger] > Java with keys:[(2862, '$key1', b'Process'), (2878, '$key3', b'ProcessBuilder'), (2899, '$key4', b'start'), (2930, '$key6', b'getInputStream'), (2757, '$key7', b'exec')]
+2019-09-07 15:43:20,823 - [_Trigger] > Java with keys:[(19728, '$key1', b'getParameter'), (24503, '$key1', b'getHeader'), (6360, '$key2', b'FileOutputStream'), (3293, '$key3', b'File'), (626, '$key5', b'print'), (6864, '$key5', b'write')]
+2019-09-07 15:43:20,824 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_12.jsp
+
+2019-09-07 15:43:20,826 - [_Trigger] > Java with keys:[(7852, '$key1', b'Process'), (59811, '$key2', b'Runtime'), (4381, '$key4', b'start'), (15132, '$key6', b'getInputStream'), (2782, '$key7', b'exec')]
+2019-09-07 15:43:20,827 - [_Trigger] > Java with keys:[(1786, '$key1', b'getParameter'), (88903, '$key1', b'getHeader'), (15611, '$key2', b'FileOutputStream'), (4833, '$key3', b'File'), (17888, '$key4', b'PrintWriter'), (3941, '$key5', b'write'), (17929, '$key5', b'print')]
+2019-09-07 15:43:20,827 - [_Trigger] > Java with keys:[(712, '$jsptqz', b'JspTqz')]
+2019-09-07 15:43:20,827 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_13.jsp
+
+2019-09-07 15:43:20,829 - [_Trigger] > Java with keys:[(1317, '$key1', b'Process'), (1329, '$key2', b'Runtime'), (759, '$key4', b'start'), (1383, '$key6', b'getInputStream'), (1162, '$key7', b'exec')]
+2019-09-07 15:43:20,829 - [_Trigger] > Java with keys:[(8677, '$key1', b'getParameter'), (12341, '$key1', b'getHeader'), (2507, '$key2', b'FileOutputStream'), (276, '$key3', b'File'), (1523, '$key5', b'write'), (9508, '$key5', b'print')]
+2019-09-07 15:43:20,829 - [_Trigger] > Java with keys:[(4307, '$jspmietian', b'http://www.mietian.net')]
+2019-09-07 15:43:20,830 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_14.jsp
+
+2019-09-07 15:43:20,836 - [_Trigger] > Java with keys:[(1281, '$key1', b'Process'), (1240, '$key2', b'Runtime'), (16307, '$key4', b'start'), (1487, '$key6', b'getInputStream'), (1436, '$key7', b'exec')]
+2019-09-07 15:43:20,837 - [_Trigger] > Java with keys:[(29928, '$key1', b'getParameter'), (17831, '$key2', b'FileOutputStream'), (411, '$key3', b'File'), (9911, '$key5', b'write'), (32598, '$key5', b'print')]
+2019-09-07 15:43:20,837 - [_Trigger] > Java with keys:[(55160, '$jshell', b'jshell ver')]
+2019-09-07 15:43:20,837 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_2.jsp
+
+2019-09-07 15:43:20,839 - [_Trigger] > Java with keys:[(9304, '$key1', b'Process'), (67542, '$key2', b'Runtime'), (5301, '$key4', b'start'), (17511, '$key6', b'getInputStream'), (3450, '$key7', b'exec')]
+2019-09-07 15:43:20,840 - [_Trigger] > Java with keys:[(2338, '$key1', b'getParameter'), (101605, '$key1', b'getHeader'), (18103, '$key2', b'FileOutputStream'), (5819, '$key3', b'File'), (20745, '$key4', b'PrintWriter'), (4781, '$key5', b'write'), (20790, '$key5', b'print')]
+2019-09-07 15:43:20,840 - [_Trigger] > Java with keys:[(1172, '$jspspy', b'JspSpy'), (43526, '$jspspy', b'jspspy')]
+2019-09-07 15:43:20,840 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_2.jspx
+
+2019-09-07 15:43:20,842 - [_Trigger] > Java with keys:[(1962, '$key1', b'Process'), (1974, '$key2', b'Runtime'), (1767, '$key4', b'start'), (2103, '$key6', b'getInputStream'), (1589, '$key7', b'exec')]
+2019-09-07 15:43:20,842 - [_Trigger] > Java with keys:[(3242, '$key1', b'getParameter'), (25206, '$key1', b'getHeader'), (433, '$key2', b'FileOutputStream'), (332, '$key3', b'File'), (3573, '$key5', b'print'), (4577, '$key5', b'write')]
+2019-09-07 15:43:20,842 - [_Trigger] > Java with keys:[(19842, '$jspwebmgr', b'http://www.shack2.org')]
+2019-09-07 15:43:20,842 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_3.jsp
+
+2019-09-07 15:43:20,844 - [_Trigger] > Java with keys:[(13464, '$key1', b'Process'), (13426, '$key2', b'Runtime'), (7924, '$key4', b'start'), (13589, '$key6', b'getInputStream'), (13544, '$key7', b'exec')]
+2019-09-07 15:43:20,845 - [_Trigger] > Java with keys:[(1287, '$key1', b'getParameter'), (15542, '$key2', b'FileOutputStream'), (1119, '$key3', b'File'), (1464, '$key5', b'print'), (15576, '$key5', b'write')]
+2019-09-07 15:43:20,845 - [_Trigger] > Java with keys:[(153, '$jspspy', b'Jspspy'), (902, '$jspspy', b'jspspy'), (1638, '$jspspy', b'JspSpy')]
+2019-09-07 15:43:20,845 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_4.jsp
+
+2019-09-07 15:43:20,852 - [_Trigger] > Java with keys:[(2353, '$key2', b'Runtime'), (2384, '$key6', b'getInputStream'), (2278, '$key7', b'exec')]
+2019-09-07 15:43:20,853 - [_Trigger] > Java with keys:[(5483, '$key1', b'getParameter'), (1682, '$key2', b'FileOutputStream'), (1626, '$key3', b'File'), (639, '$key4', b'PrintWriter'), (619, '$key5', b'print'), (1424, '$key5', b'write')]
+2019-09-07 15:43:20,853 - [_Trigger] > Java with keys:[(3023, '$key1', b'shell'), (5966, '$key2', b'downloadL'), (2278, '$key3', b'exec'), (1858, '$key4', b'cat'), (3660, '$key5', b'auto'), (6509, '$key5', b'Auto'), (2684, '$key6', b'download')]
+2019-09-07 15:43:20,853 - [_Trigger] > Java with keys:[]
+2019-09-07 15:43:20,853 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_5.jsp
+
+2019-09-07 15:43:20,855 - [_Trigger] > Java with keys:[(21818, '$key1', b'Process'), (22142, '$key2', b'Runtime'), (4633, '$key4', b'start'), (22294, '$key6', b'getInputStream'), (22163, '$key7', b'exec')]
+2019-09-07 15:43:20,855 - [_Trigger] > Java with keys:[(25572, '$key1', b'getParameter'), (10904, '$key2', b'FileOutputStream'), (11, '$key3', b'File'), (663, '$key5', b'write'), (35115, '$key5', b'print')]
+2019-09-07 15:43:20,855 - [_Trigger] > Java with keys:[(7, '$jspfb', b'jsp File browser'), (28701, '$jspfb', b'jsp File Browser'), (30599, '$jspfb', b'jsp file browser')]
+2019-09-07 15:43:20,856 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_6.jsp
+
+2019-09-07 15:43:20,857 - [_Trigger] > Java with keys:[(28575, '$key1', b'Process'), (28587, '$key2', b'Runtime'), (29650, '$key4', b'start'), (29865, '$key6', b'getInputStream'), (28608, '$key7', b'exec')]
+2019-09-07 15:43:20,858 - [_Trigger] > Java with keys:[(44331, '$key1', b'getParameter'), (24999, '$key2', b'FileOutputStream'), (23812, '$key3', b'File'), (25180, '$key5', b'write'), (65898, '$key5', b'print')]
+2019-09-07 15:43:20,859 - [_Trigger] > Java with keys:[(166, '$devilzShell', b'devilzShell')]
+2019-09-07 15:43:20,859 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_7.jsp
+
+2019-09-07 15:43:20,861 - [_Trigger] > Java with keys:[(35691, '$key1', b'Process'), (35703, '$key2', b'Runtime'), (3591, '$key4', b'start'), (21360, '$key6', b'getInputStream'), (35724, '$key7', b'exec')]
+2019-09-07 15:43:20,861 - [_Trigger] > Java with keys:[(418, '$key1', b'getParameter'), (9651, '$key2', b'FileOutputStream'), (49, '$key3', b'File'), (33797, '$key4', b'PrintWriter'), (455, '$key5', b'print'), (10364, '$key5', b'write')]
+2019-09-07 15:43:20,861 - [_Trigger] > Java with keys:[(34932, '$jspcoffee', b'www.kukafei520.net')]
+2019-09-07 15:43:20,861 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_8.jsp
+
+2019-09-07 15:43:20,868 - [_Trigger] > Java with keys:[(4244, '$key1', b'Process'), (4214, '$key2', b'Runtime'), (14509, '$key4', b'start'), (9666, '$key6', b'getInputStream'), (9411, '$key7', b'exec')]
+2019-09-07 15:43:20,868 - [_Trigger] > Java with keys:[(27471, '$key1', b'getParameter'), (6973, '$key2', b'FileOutputStream'), (546, '$key3', b'File'), (324, '$key5', b'print'), (2725, '$key5', b'write')]
+2019-09-07 15:43:20,869 - [_Trigger] > Java with keys:[(2341, '$jspSilic', b'Silic'), (22858, '$jspSilic', b'silic'), (178, '$jspmgrsystem2', b'Manage System - JSP')]
+2019-09-07 15:43:20,869 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_9.jsp
+
+2019-09-07 15:43:20,870 - [_Trigger] > Java with keys:[(58, '$key1', b'getParameter'), (311, '$key2', b'FileOutputStream'), (311, '$key3', b'File'), (271, '$key5', b'write')]
+2019-09-07 15:43:20,870 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_download_1.jsp
+
+2019-09-07 15:43:20,874 - [_Trigger] > Java with keys:[(3829, '$key1', b'getHeader'), (11038, '$key1', b'getParameter'), (24, '$key3', b'File'), (191, '$key4', b'PrintWriter'), (2247, '$key5', b'write'), (3049, '$key5', b'print')]
+2019-09-07 15:43:20,874 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_proxy_1.jsp
+
+2019-09-07 15:43:20,885 - [_Trigger] > Java with keys:[(1918, '$key1', b'Process'), (1866, '$key2', b'Runtime'), (2365, '$key4', b'start'), (2056, '$key6', b'getInputStream'), (1936, '$key7', b'exec')]
+2019-09-07 15:43:20,886 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_reversecmd_1.jsp
+
+2019-09-07 15:43:20,886 - [_Trigger] > Java with keys:[(8, '$key2', b'Runtime'), (48, '$key7', b'exec')]
+2019-09-07 15:43:20,887 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_reversecmd_2.jsp
+
+2019-09-07 15:43:20,888 - [_Trigger] > Java with keys:[(13406, '$key1', b'getParameter'), (6607, '$key2', b'FileOutputStream'), (1428, '$key3', b'File'), (6332, '$key5', b'print'), (7549, '$key5', b'write')]
+2019-09-07 15:43:20,889 - [_Trigger] > Java with keys:[(579, '$jspfilemgr', b'http://jmmm.com')]
+2019-09-07 15:43:20,889 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_uploaddownload_2.jsp
+
+2019-09-07 15:43:20,890 - [_Trigger] > Java with keys:[(176, '$key1', b'getParameter'), (464, '$key2', b'FileOutputStream'), (464, '$key3', b'File'), (504, '$key5', b'write'), (548, '$key5', b'print')]
+2019-09-07 15:43:20,890 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_1.jsp
+
+2019-09-07 15:43:20,891 - [_Trigger] > Java with keys:[(150, '$key1', b'getParameter'), (92, '$key2', b'FileOutputStream'), (92, '$key3', b'File'), (169, '$key5', b'write')]
+2019-09-07 15:43:20,892 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_1.jspx
+
+2019-09-07 15:43:20,893 - [_Trigger] > Java with keys:[(228, '$key1', b'getParameter'), (669, '$key3', b'File'), (702, '$key4', b'PrintWriter'), (714, '$key5', b'write'), (758, '$key5', b'print')]
+2019-09-07 15:43:20,893 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_10.jsp
+
+2019-09-07 15:43:20,903 - [_Trigger] > Java with keys:[(68, '$key1', b'getParameter'), (14, '$key2', b'FileOutputStream'), (14, '$key3', b'File'), (87, '$key5', b'write')]
+2019-09-07 15:43:20,903 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_11.jsp
+
+2019-09-07 15:43:20,904 - [_Trigger] > Java with keys:[(227, '$key1', b'getParameter'), (175, '$key2', b'FileOutputStream'), (81, '$key3', b'File'), (461, '$key5', b'write')]
+2019-09-07 15:43:20,905 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_12.jsp
+
+2019-09-07 15:43:20,906 - [_Trigger] > Java with keys:[(312, '$key1', b'getParameter'), (600, '$key2', b'FileOutputStream'), (600, '$key3', b'File'), (640, '$key5', b'write'), (684, '$key5', b'print')]
+2019-09-07 15:43:20,906 - [_Trigger] > Java with keys:[(132, '$jspdp', b'JspDo Code By')]
+2019-09-07 15:43:20,906 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_2.jsp
+
+2019-09-07 15:43:20,908 - [_Trigger] > Java with keys:[(13, '$key1', b'getParameter'), (46, '$key2', b'FileOutputStream'), (46, '$key3', b'File'), (263, '$key5', b'write')]
+2019-09-07 15:43:20,908 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_3.jsp
+
+2019-09-07 15:43:20,909 - [_Trigger] > Java with keys:[(39, '$key1', b'getParameter'), (14, '$key2', b'FileOutputStream'), (14, '$key3', b'File'), (58, '$key5', b'write')]
+2019-09-07 15:43:20,909 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_4.jsp
+
+2019-09-07 15:43:20,910 - [_Trigger] > Java with keys:[(593, '$key1', b'getHeader'), (2778, '$key2', b'FileOutputStream'), (165, '$key3', b'File'), (2169, '$key5', b'write'), (3620, '$key5', b'print')]
+2019-09-07 15:43:20,910 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_5.jsp
+
+2019-09-07 15:43:20,911 - [_Trigger] > Java with keys:[(368, '$key1', b'getParameter'), (312, '$key2', b'RandomAccessFile'), (4347, '$key2', b'FileOutputStream'), (324, '$key3', b'File'), (397, '$key5', b'write'), (6424, '$key5', b'print')]
+2019-09-07 15:43:20,912 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_6.jsp
+
+2019-09-07 15:43:20,924 - [_Trigger] > Java with keys:[(192, '$key1', b'getParameter'), (87, '$key2', b'FileHandler'), (20, '$key3', b'Logger'), (289, '$key4', b'.info')]
+2019-09-07 15:43:20,924 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_7.jsp
+
+2019-09-07 15:43:20,925 - [_Trigger] > Java with keys:[(72, '$key1', b'getParameter'), (14, '$key2', b'FileOutputStream'), (14, '$key3', b'File'), (91, '$key5', b'write')]
+2019-09-07 15:43:20,925 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_8.jsp
+
+2019-09-07 15:43:20,926 - [_Trigger] > Java with keys:[(39, '$key1', b'getParameter'), (14, '$key2', b'RandomAccessFile'), (26, '$key3', b'File'), (63, '$key5', b'write')]
+2019-09-07 15:43:20,927 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_9.jsp
+
+2019-09-07 15:43:30,648 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_1.jsp with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:30,655 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_1.jspx with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:30,666 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_2.jsp with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:30,671 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_2.jspx with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:30,681 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_3.jsp with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:30,689 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_4.jsp with matches: ['..\\Samples\\jsp\\w2_caidao_4.jsp', '..\\Samples\\jsp\\w1_caidao_4.jsp', '..\\Samples\\jsp\\w2_caidao_2.jsp']
+
+2019-09-07 15:43:30,714 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_caidao_5.jsp with matches: ['..\\Samples\\jsp\\w1_caidao_5.jsp']
+
+2019-09-07 15:43:30,719 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_1.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_1.jsp', '..\\Samples\\jsp\\w1_cmd_12.jsp', '..\\Samples\\jsp\\w2_cmd_4.jsp', '..\\Samples\\jsp\\w2_cmd_2.jsp']
+
+2019-09-07 15:43:30,721 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_1.jspx with matches: ['..\\Samples\\jsp\\w1_cmd_1.jspx', '..\\Samples\\jsp\\w1_cmd_5.jspx', '..\\Samples\\jsp\\w2_cmd_2.jspx']
+
+2019-09-07 15:43:30,724 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_10.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_10.jsp']
+
+2019-09-07 15:43:30,732 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_11.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_11.jsp']
+
+2019-09-07 15:43:30,735 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_12.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_1.jsp', '..\\Samples\\jsp\\w1_cmd_12.jsp', '..\\Samples\\jsp\\w2_cmd_4.jsp', '..\\Samples\\jsp\\w2_cmd_2.jsp']
+
+2019-09-07 15:43:30,737 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_2.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_3.jspx', '..\\Samples\\jsp\\w1_cmd_2.jsp', '..\\Samples\\jsp\\w1_cmd_6.jspx', '..\\Samples\\jsp\\w1_cmd_2.jspx']
+
+2019-09-07 15:43:30,739 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_2.jspx with matches: ['..\\Samples\\jsp\\w2_cmd_3.jspx', '..\\Samples\\jsp\\w1_cmd_2.jsp', '..\\Samples\\jsp\\w1_cmd_6.jspx', '..\\Samples\\jsp\\w1_cmd_2.jspx']
+
+2019-09-07 15:43:30,740 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_3.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_3.jsp', '..\\Samples\\jsp\\w1_cmd_7.jspx', '..\\Samples\\jsp\\w1_cmd_3.jspx', '..\\Samples\\jsp\\w2_cmd_1.jspx']
+
+2019-09-07 15:43:30,751 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_3.jspx with matches: ['..\\Samples\\jsp\\w1_cmd_3.jsp', '..\\Samples\\jsp\\w1_cmd_7.jspx', '..\\Samples\\jsp\\w1_cmd_3.jspx', '..\\Samples\\jsp\\w2_cmd_1.jspx']
+
+2019-09-07 15:43:30,754 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_4.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_6.jsp', '..\\Samples\\jsp\\w1_cmd_4.jsp']
+
+2019-09-07 15:43:30,756 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_4.jspx with matches: ['..\\Samples\\jsp\\w2_cmd_4.jspx', '..\\Samples\\jsp\\w1_cmd_8.jspx', '..\\Samples\\jsp\\w1_cmd_4.jspx']
+
+2019-09-07 15:43:30,759 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_5.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_5.jsp', '..\\Samples\\jsp\\w2_reversecmd_1.jsp']
+
+2019-09-07 15:43:30,771 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_5.jspx with matches: ['..\\Samples\\jsp\\w1_cmd_1.jspx', '..\\Samples\\jsp\\w1_cmd_5.jspx', '..\\Samples\\jsp\\w2_cmd_2.jspx']
+
+2019-09-07 15:43:30,773 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_6.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_6.jsp']
+
+2019-09-07 15:43:30,784 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_6.jspx with matches: ['..\\Samples\\jsp\\w2_cmd_3.jspx', '..\\Samples\\jsp\\w1_cmd_2.jsp', '..\\Samples\\jsp\\w1_cmd_6.jspx', '..\\Samples\\jsp\\w1_cmd_2.jspx']
+
+2019-09-07 15:43:30,964 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_7.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_5.jsp', '..\\Samples\\jsp\\w1_cmd_7.jsp']
+
+2019-09-07 15:43:30,967 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_7.jspx with matches: ['..\\Samples\\jsp\\w1_cmd_3.jsp', '..\\Samples\\jsp\\w1_cmd_7.jspx', '..\\Samples\\jsp\\w1_cmd_3.jspx', '..\\Samples\\jsp\\w2_cmd_1.jspx']
+
+2019-09-07 15:43:30,970 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_8.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_8.jsp', '..\\Samples\\jsp\\w2_cmd_13.jsp']
+
+2019-09-07 15:43:30,971 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_8.jspx with matches: ['..\\Samples\\jsp\\w2_cmd_4.jspx', '..\\Samples\\jsp\\w1_cmd_8.jspx', '..\\Samples\\jsp\\w1_cmd_4.jspx']
+
+2019-09-07 15:43:30,973 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_cmd_9.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_9.jsp']
+
+2019-09-07 15:43:30,985 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_1.jsp with matches: ['..\\Samples\\jsp\\w1_dama_1.jsp', '..\\Samples\\jsp\\w2_dama_5.jsp']
+
+2019-09-07 15:43:31,066 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_1.jspx with matches: ['..\\Samples\\jsp\\w2_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_2.jspx', '..\\Samples\\jsp\\w1_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_1.jspx']
+
+2019-09-07 15:43:31,156 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_10.jsp with matches: ['..\\Samples\\jsp\\w2_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_2.jspx', '..\\Samples\\jsp\\w1_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_1.jspx']
+
+2019-09-07 15:43:31,185 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_11.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,221 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_12.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,251 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_13.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,308 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_2.jsp with matches: ['..\\Samples\\jsp\\w1_dama_2.jsp']
+
+2019-09-07 15:43:31,344 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_3.jsp with matches: ['..\\Samples\\jsp\\w2_dama_2.jsp', '..\\Samples\\jsp\\w1_dama_3.jsp', '..\\Samples\\jsp\\w2_dama_7.jsp', '..\\Samples\\jsp\\w2_oracledb_1.jsp']
+
+2019-09-07 15:43:31,394 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_4.jsp with matches: ['..\\Samples\\jsp\\w2_dama_6.jsp', '..\\Samples\\jsp\\w1_dama_7.jsp', '..\\Samples\\jsp\\w1_dama_4.jsp']
+
+2019-09-07 15:43:31,415 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_5.jsp with matches: ['..\\Samples\\jsp\\w1_dama_5.jsp']
+
+2019-09-07 15:43:31,438 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_6.jsp with matches: ['..\\Samples\\jsp\\w2_uploaddownload_2.jsp', '..\\Samples\\jsp\\w1_dama_6.jsp', '..\\Samples\\jsp\\w2_dama_7.jsp', '..\\Samples\\jsp\\w2_oracledb_1.jsp']
+
+2019-09-07 15:43:31,483 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_7.jsp with matches: ['..\\Samples\\jsp\\w2_dama_6.jsp', '..\\Samples\\jsp\\w1_dama_7.jsp', '..\\Samples\\jsp\\w1_dama_4.jsp']
+
+2019-09-07 15:43:31,503 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_8.jsp with matches: ['..\\Samples\\jsp\\w2_dama_1.jsp', '..\\Samples\\jsp\\w1_dama_8.jsp']
+
+2019-09-07 15:43:31,535 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_dama_9.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,540 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_1.jsp with matches: ['..\\Samples\\jsp\\w1_upload_11.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_upload_1.jsp', '..\\Samples\\jsp\\w2_upload_2.jsp']
+
+2019-09-07 15:43:31,542 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_10.jsp with matches: ['..\\Samples\\jsp\\w2_upload_4.jsp', '..\\Samples\\jsp\\w1_upload_10.jsp']
+
+2019-09-07 15:43:31,545 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_11.jsp with matches: ['..\\Samples\\jsp\\w1_upload_11.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_upload_1.jsp', '..\\Samples\\jsp\\w2_upload_2.jsp']
+
+2019-09-07 15:43:31,554 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_12.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,557 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_13.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,561 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_2.jsp with matches: ['..\\Samples\\jsp\\w1_upload_2.jsp', '..\\Samples\\jsp\\w2_upload_5.jsp']
+
+2019-09-07 15:43:31,568 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_3.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,571 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_4.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w1_upload_11.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_upload_1.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_upload_2.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,574 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_5.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,576 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_6.jsp with matches: ['..\\Samples\\jsp\\w2_upload_3.jsp', '..\\Samples\\jsp\\w2_upload_11.jsp', '..\\Samples\\jsp\\w1_upload_6.jsp', '..\\Samples\\jsp\\w2_upload_12.jsp', '..\\Samples\\jsp\\w1_upload_8.jsp']
+
+2019-09-07 15:43:31,584 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_7.jsp with matches: ['..\\Samples\\jsp\\w1_upload_7.jsp']
+
+2019-09-07 15:43:31,587 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_8.jsp with matches: ['..\\Samples\\jsp\\w2_upload_3.jsp', '..\\Samples\\jsp\\w2_upload_11.jsp', '..\\Samples\\jsp\\w1_upload_6.jsp', '..\\Samples\\jsp\\w2_upload_12.jsp', '..\\Samples\\jsp\\w1_upload_8.jsp']
+
+2019-09-07 15:43:31,590 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w1_upload_9.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,599 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_1.jsp with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:31,605 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_1.jspx with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:31,613 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_2.jsp with matches: ['..\\Samples\\jsp\\w2_caidao_4.jsp', '..\\Samples\\jsp\\w1_caidao_4.jsp', '..\\Samples\\jsp\\w2_caidao_2.jsp']
+
+2019-09-07 15:43:31,622 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_2.jspx with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:31,634 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_3.jsp with matches: ['..\\Samples\\jsp\\w2_caidao_3.jsp']
+
+2019-09-07 15:43:31,646 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_3.jspx with matches: ['..\\Samples\\jsp\\w1_caidao_1.jspx', '..\\Samples\\jsp\\w1_caidao_3.jsp', '..\\Samples\\jsp\\w1_caidao_2.jsp', '..\\Samples\\jsp\\w2_caidao_3.jspx', '..\\Samples\\jsp\\w1_caidao_2.jspx', '..\\Samples\\jsp\\w1_caidao_1.jsp', '..\\Samples\\jsp\\w2_caidao_1.jspx', '..\\Samples\\jsp\\w2_caidao_2.jspx', '..\\Samples\\jsp\\w2_caidao_1.jsp']
+
+2019-09-07 15:43:31,653 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_caidao_4.jsp with matches: ['..\\Samples\\jsp\\w2_caidao_4.jsp', '..\\Samples\\jsp\\w1_caidao_4.jsp', '..\\Samples\\jsp\\w2_caidao_2.jsp']
+
+2019-09-07 15:43:31,659 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_1.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_9.jsp', '..\\Samples\\jsp\\w2_cmd_1.jsp', '..\\Samples\\jsp\\w2_cmd_12.jsp']
+
+2019-09-07 15:43:31,661 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_1.jspx with matches: ['..\\Samples\\jsp\\w1_cmd_3.jsp', '..\\Samples\\jsp\\w1_cmd_7.jspx', '..\\Samples\\jsp\\w1_cmd_3.jspx', '..\\Samples\\jsp\\w2_cmd_1.jspx']
+
+2019-09-07 15:43:31,663 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_10.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_10.jsp']
+
+2019-09-07 15:43:31,666 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_12.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_9.jsp', '..\\Samples\\jsp\\w2_cmd_1.jsp', '..\\Samples\\jsp\\w2_cmd_12.jsp']
+
+2019-09-07 15:43:31,673 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_13.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_8.jsp', '..\\Samples\\jsp\\w2_cmd_13.jsp']
+
+2019-09-07 15:43:31,676 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_14.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_14.jsp']
+
+2019-09-07 15:43:31,678 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_2.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_1.jsp', '..\\Samples\\jsp\\w1_cmd_12.jsp', '..\\Samples\\jsp\\w2_cmd_4.jsp', '..\\Samples\\jsp\\w2_cmd_2.jsp']
+
+2019-09-07 15:43:31,681 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_2.jspx with matches: ['..\\Samples\\jsp\\w1_cmd_1.jspx', '..\\Samples\\jsp\\w1_cmd_5.jspx', '..\\Samples\\jsp\\w2_cmd_2.jspx']
+
+2019-09-07 15:43:31,692 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_3.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_3.jsp']
+
+2019-09-07 15:43:31,694 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_3.jspx with matches: ['..\\Samples\\jsp\\w2_cmd_3.jspx', '..\\Samples\\jsp\\w1_cmd_2.jsp', '..\\Samples\\jsp\\w1_cmd_6.jspx', '..\\Samples\\jsp\\w1_cmd_2.jspx']
+
+2019-09-07 15:43:31,696 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_4.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_1.jsp', '..\\Samples\\jsp\\w1_cmd_12.jsp', '..\\Samples\\jsp\\w2_cmd_4.jsp', '..\\Samples\\jsp\\w2_cmd_2.jsp']
+
+2019-09-07 15:43:31,703 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_4.jspx with matches: ['..\\Samples\\jsp\\w2_cmd_4.jspx', '..\\Samples\\jsp\\w1_cmd_8.jspx', '..\\Samples\\jsp\\w1_cmd_4.jspx']
+
+2019-09-07 15:43:31,880 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_5.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_5.jsp', '..\\Samples\\jsp\\w1_cmd_7.jsp']
+
+2019-09-07 15:43:31,886 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_6.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_6.jsp', '..\\Samples\\jsp\\w1_cmd_4.jsp']
+
+2019-09-07 15:43:31,887 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_7.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_7.jsp']
+
+2019-09-07 15:43:31,889 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_8.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_8.jsp']
+
+2019-09-07 15:43:31,891 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_cmd_9.jsp with matches: ['..\\Samples\\jsp\\w2_cmd_9.jsp', '..\\Samples\\jsp\\w2_cmd_1.jsp', '..\\Samples\\jsp\\w2_cmd_12.jsp']
+
+2019-09-07 15:43:31,912 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_1.jsp with matches: ['..\\Samples\\jsp\\w2_dama_1.jsp', '..\\Samples\\jsp\\w1_dama_8.jsp']
+
+2019-09-07 15:43:31,919 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_1.jspx with matches: ['..\\Samples\\jsp\\w2_dama_1.jspx']
+
+2019-09-07 15:43:31,950 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_10.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:31,986 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_11.jsp with matches: ['..\\Samples\\jsp\\w2_dama_11.jsp']
+
+2019-09-07 15:43:32,016 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_12.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,086 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_13.jsp with matches: ['..\\Samples\\jsp\\w2_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_2.jspx', '..\\Samples\\jsp\\w1_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_1.jspx']
+
+2019-09-07 15:43:32,128 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_14.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,165 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_2.jsp with matches: ['..\\Samples\\jsp\\w2_dama_2.jsp', '..\\Samples\\jsp\\w1_dama_3.jsp', '..\\Samples\\jsp\\w2_dama_7.jsp', '..\\Samples\\jsp\\w2_oracledb_1.jsp']
+
+2019-09-07 15:43:32,246 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_2.jspx with matches: ['..\\Samples\\jsp\\w2_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_2.jspx', '..\\Samples\\jsp\\w1_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_1.jspx']
+
+2019-09-07 15:43:32,271 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_3.jsp with matches: ['..\\Samples\\jsp\\w2_dama_3.jsp']
+
+2019-09-07 15:43:32,305 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_4.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,316 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_5.jsp with matches: ['..\\Samples\\jsp\\w1_dama_1.jsp', '..\\Samples\\jsp\\w2_dama_5.jsp']
+
+2019-09-07 15:43:32,359 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_6.jsp with matches: ['..\\Samples\\jsp\\w2_dama_6.jsp', '..\\Samples\\jsp\\w1_dama_7.jsp', '..\\Samples\\jsp\\w1_dama_4.jsp']
+
+2019-09-07 15:43:32,403 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_7.jsp with matches: ['..\\Samples\\jsp\\w2_dama_2.jsp', '..\\Samples\\jsp\\w2_uploaddownload_2.jsp', '..\\Samples\\jsp\\w2_dama_7.jsp', '..\\Samples\\jsp\\w1_dama_3.jsp', '..\\Samples\\jsp\\w1_dama_6.jsp', '..\\Samples\\jsp\\w2_oracledb_1.jsp']
+
+2019-09-07 15:43:32,435 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_8.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,462 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_dama_9.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,466 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_download_1.jsp with matches: ['..\\Samples\\jsp\\w2_download_1.jsp']
+
+2019-09-07 15:43:32,482 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_download_2.jsp with matches: ['..\\Samples\\jsp\\w2_download_2.jsp']
+
+2019-09-07 15:43:32,493 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_oracledb_1.jsp with matches: ['..\\Samples\\jsp\\w2_dama_2.jsp', '..\\Samples\\jsp\\w2_uploaddownload_2.jsp', '..\\Samples\\jsp\\w2_dama_7.jsp', '..\\Samples\\jsp\\w1_dama_3.jsp', '..\\Samples\\jsp\\w1_dama_6.jsp', '..\\Samples\\jsp\\w2_oracledb_1.jsp']
+
+2019-09-07 15:43:32,508 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_proxy_1.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,516 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_proxy_2.jsp with matches: ['..\\Samples\\jsp\\w2_proxy_2.jsp']
+
+2019-09-07 15:43:32,519 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_reversecmd_1.jsp with matches: ['..\\Samples\\jsp\\w1_cmd_5.jsp', '..\\Samples\\jsp\\w2_reversecmd_1.jsp']
+
+2019-09-07 15:43:32,523 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_reversecmd_2.jsp with matches: ['..\\Samples\\jsp\\w2_reversecmd_2.jsp']
+
+2019-09-07 15:43:32,546 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_uploaddownload_2.jsp with matches: ['..\\Samples\\jsp\\w2_uploaddownload_2.jsp', '..\\Samples\\jsp\\w1_dama_6.jsp', '..\\Samples\\jsp\\w2_dama_7.jsp', '..\\Samples\\jsp\\w2_oracledb_1.jsp']
+
+2019-09-07 15:43:32,550 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_1.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w1_upload_11.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_upload_1.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_upload_2.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,551 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_1.jspx with matches: ['..\\Samples\\jsp\\w2_upload_8.jsp', '..\\Samples\\jsp\\w2_upload_1.jspx']
+
+2019-09-07 15:43:32,554 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_10.jsp with matches: ['..\\Samples\\jsp\\w1_upload_5.jsp', '..\\Samples\\jsp\\w1_upload_3.jsp', '..\\Samples\\jsp\\w1_dama_12.jsp', '..\\Samples\\jsp\\w1_upload_12.jsp', '..\\Samples\\jsp\\w2_dama_10.jsp', '..\\Samples\\jsp\\w1_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_dama_13.jsp', '..\\Samples\\jsp\\w2_dama_4.jsp', '..\\Samples\\jsp\\w1_upload_13.jsp', '..\\Samples\\jsp\\w2_dama_12.jsp', '..\\Samples\\jsp\\w2_dama_14.jsp', '..\\Samples\\jsp\\w2_dama_9.jsp', '..\\Samples\\jsp\\w2_upload_10.jsp', '..\\Samples\\jsp\\w1_upload_9.jsp', '..\\Samples\\jsp\\w2_proxy_1.jsp', '..\\Samples\\jsp\\w2_dama_8.jsp', '..\\Samples\\jsp\\w1_dama_11.jsp']
+
+2019-09-07 15:43:32,557 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_11.jsp with matches: ['..\\Samples\\jsp\\w2_upload_3.jsp', '..\\Samples\\jsp\\w2_upload_11.jsp', '..\\Samples\\jsp\\w1_upload_6.jsp', '..\\Samples\\jsp\\w2_upload_12.jsp', '..\\Samples\\jsp\\w1_upload_8.jsp']
+
+2019-09-07 15:43:32,566 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_12.jsp with matches: ['..\\Samples\\jsp\\w2_upload_3.jsp', '..\\Samples\\jsp\\w2_upload_11.jsp', '..\\Samples\\jsp\\w1_upload_6.jsp', '..\\Samples\\jsp\\w2_upload_12.jsp', '..\\Samples\\jsp\\w1_upload_8.jsp']
+
+2019-09-07 15:43:32,569 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_2.jsp with matches: ['..\\Samples\\jsp\\w1_upload_11.jsp', '..\\Samples\\jsp\\w2_upload_1.jsp', '..\\Samples\\jsp\\w1_upload_4.jsp', '..\\Samples\\jsp\\w1_upload_1.jsp', '..\\Samples\\jsp\\w2_upload_2.jsp']
+
+2019-09-07 15:43:32,571 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_3.jsp with matches: ['..\\Samples\\jsp\\w2_upload_3.jsp', '..\\Samples\\jsp\\w2_upload_11.jsp', '..\\Samples\\jsp\\w1_upload_6.jsp', '..\\Samples\\jsp\\w2_upload_12.jsp', '..\\Samples\\jsp\\w1_upload_8.jsp']
+
+2019-09-07 15:43:32,572 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_4.jsp with matches: ['..\\Samples\\jsp\\w2_upload_4.jsp', '..\\Samples\\jsp\\w1_upload_10.jsp']
+
+2019-09-07 15:43:32,582 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_5.jsp with matches: ['..\\Samples\\jsp\\w1_upload_2.jsp', '..\\Samples\\jsp\\w2_upload_5.jsp']
+
+2019-09-07 15:43:32,587 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_6.jsp with matches: ['..\\Samples\\jsp\\w2_upload_6.jsp']
+
+2019-09-07 15:43:32,589 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_7.jsp with matches: ['..\\Samples\\jsp\\w2_upload_7.jsp']
+
+2019-09-07 15:43:32,590 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_8.jsp with matches: ['..\\Samples\\jsp\\w2_upload_8.jsp', '..\\Samples\\jsp\\w2_upload_1.jspx']
+
+2019-09-07 15:43:32,599 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\samples\jsp\w2_upload_9.jsp with matches: ['..\\Samples\\jsp\\w2_upload_9.jsp']
+
+2019-09-07 15:44:25,181 - [_Trigger] > Java with keys:[(7112, '$key1', b'Process'), (7122, '$key2', b'Runtime'), (3447, '$key6', b'getInputStream'), (4454, '$key7', b'exec')]
+2019-09-07 15:44:25,182 - [_Trigger] > Java with keys:[(5808, '$key1', b'getParameter'), (2318, '$key2', b'FileOutputStream'), (1060, '$key3', b'File'), (2066, '$key5', b'write'), (7538, '$key5', b'print')]
+2019-09-07 15:44:25,182 - [Webshell] > D:\Python代码\webshell检测\代码\KillerDemo\test\w1_caidao_2.jspx
+
