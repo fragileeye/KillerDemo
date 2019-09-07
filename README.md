@@ -36,7 +36,8 @@ The same way click the `RealtimeDetect` button
 Copy some evil files(extension with php, jsp, aspx...) into monitored directory
 ---
 ![RealtimeResult](https://github.com/fragileeye/KillerDemo/blob/master/images/6.jpg)
-&nbsp;&nbsp;
+
+
 I believe everyone could use this...
 ---
 ![AssistantResult](https://github.com/fragileeye/KillerDemo/blob/master/images/7.jpg)
