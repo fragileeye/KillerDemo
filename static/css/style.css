@@ -1,0 +1,59 @@
+h1{
+	font-family: Times new roman;
+	font-size: 30px;
+	font-style: italic;
+	text-align: center;
+}
+
+.index_block{
+	font-family: 仿宋;
+	font-size: 20px;
+	color: blue;
+	margin-top: 100px;
+	margin-bottom: 120px;
+	padding: 40px;
+	text-align: center;
+	border:1px solid green;
+}
+
+.core_block{
+	margin: 20px, 100px, 20px, 100px;
+	padding: 20px;
+	text-align: center;
+}
+
+.core_table_head{
+	width: 800px;
+	height: 20px;
+	font-family: Times new roman;
+	font-size: 14px;
+	border: 1px solid green;
+	margin: 0 auto;
+	table-layout:fixed;
+}
+
+.core_table_head td{
+	border: 1px solid green;
+}
+
+.core_table_body{
+	width: 800px;
+	height: 380px;
+	font-family: Times new roman;
+	font-size: 14px;
+	border: 1px solid green;
+	margin: 0 auto;
+	table-layout:fixed;
+}
+
+.core_table_body td{
+	border: 1px solid green;
+}
+
+.footer{
+	font-family: Times new roman;
+	font-size: 18px;
+	font-style: italic;
+	text-align: center;
+	color: red;
+}

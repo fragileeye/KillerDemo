@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="../static/css/style.css"/>
+	<title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+	{% block info %}
+	{% endblock %}
+
+	<hr>
+	{% block content %}
+	{% endblock %}
+
+	{% block footer %}
+		<div class="footer">
+			<hr>
+			<p>@Copyright 2019- & all rights reserved by suiyan.</p>
+		</div>
+	{% endblock %}
+</body>
+</html>

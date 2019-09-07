@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block info %}
+	<h1>Webshell Offline Killer</h1>
+{% endblock %}
+
+{% block content %}
+	<div class="core_block">
+		<form name="form_offline" action="#" method="POST">
+			<select name="level">
+				<option value="1">深度检测</option>
+				<option value="0">精准检测</option>
+			</select>
+			<input type="text" name="tpath" width="400px" />
+			<input type="hidden" name="start_detect" value="1">
+			<input type="submit" value="开始检测" />
+		</form>
+	</div>
+
+	<div>
+		<table class="core_table_head" >
+			<tr>
+				<td width="50%">可疑文件列表</td>
+				<td width="20%">文件大小(KB)</td>
+				<td width="30%">文件创建日期</td>
+			</tr>
+		</table>
+		<table class="core_table_body" >
+			{% for item in result %}
+			<tr>
+				<td width="50%">{{item['file']}}</td>
+				<td width="20%">{{item['size']}}</td>
+				<td width="30%">{{item['date']}}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	</div>
+{% endblock %}

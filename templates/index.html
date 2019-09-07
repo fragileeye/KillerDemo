@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Webshell Killer{% endblock %}
+
+{% block info %}
+	<h1>Webshell Killer</h1>
+{% endblock %}
+
+{% block content %}
+
+
+<table align="center">
+	<tr>
+		<td>
+			<div class="index_block">
+				<a href="offline"><img src="../static/img/offline.ico"></a>
+				<br><p>离线扫描</p>
+			</div>
+		</td>
+		<td>
+			<div class="index_block">
+				<a href="realtime"><img src="../static/img/realtime.ico"></a>
+				<br><p>实时扫描</p>
+			</div>
+		</td>
+		<td>
+			<div class="index_block">
+				<a href="assistant"><img src="../static/img/assistant.ico"></a>
+				<br><p>辅助扫描</p>
+			</div>
+		</td>
+	</tr>
+</table>
+
+{% endblock %}

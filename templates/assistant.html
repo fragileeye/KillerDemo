@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block info %}
+	<h1>Webshell Killer Assistant</h1>
+{% endblock %}
+
+{% block content %}
+	<div class="core_block">
+		<form name="form_assistant" action="#" method="POST">
+			<select name="calc_type">
+				<option value="重合指数">重合指数</option>
+				<option value="信息熵">信息熵</option>
+				<option value="最长字符串">最长字符串</option>
+				<option value="文件压缩比">文件压缩比</option>
+			</select>
+			<input type="text" name="tpath" width="400px" />
+			<input type="submit" value="查看排序结果" />
+		</form>
+	</div>
+
+	<div>
+		<table class="core_table_head">
+			<tr>
+				{% if calc_type %}
+				<td width="10%">{{ calc_type }}</td>
+				{% else %}
+				<td width="10%">计算结果</td>
+				{% endif %}
+				<td width="60%">文件列表</td>
+				<td width="10%">文件大小(KB)</td>
+				<td width="20%">上传日期</td>
+			</tr>
+		</table>
+		<table class="core_table_body" >
+			{% for item in result %}
+			<tr>
+				<td width="10%">{{item['value']}}</td>
+				<td width="60%">{{item['file']}}</td>
+				<td width="10%">{{item['size']}}</td>
+				<td width="20%">{{item['date']}}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	</div>
+{% endblock %}

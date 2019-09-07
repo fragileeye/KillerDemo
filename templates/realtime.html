@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}{{title}}{% endblock %}
+
+{% block info %}
+	<h1>Webshell RealTime Killer</h1>
+{% endblock %}
+
+{% block content %}
+	<div class="core_block">
+		<form name="form_start" action="#" method="POST">
+			<select name="level">
+				<option value=1>深度检测</option>
+				<option value=0>精准检测</option>
+			</select>
+			<input type="text" name="tpath" width="400px" />
+			<input type="hidden" name="start" value="1">
+			<input type="submit" value="实时监控" />
+		</form>
+	</div>
+
+	<div>
+		<form name="form_stop" action="#" method="POST">
+		<table class="core_table_head" >
+			<tr>
+				<td width="80%">已监控目录</td>
+				<td width="20%"><input type="submit" value="停止监控"/></td>
+			</tr>
+		</table>
+		<table class="core_table_body" >
+			{% for item in result %}
+			<tr>
+				<td width="80%">{{item}}</td>
+				<td width="20%">
+					{% if item %}
+						<input type="checkbox" name="{{item}}"/><b>关闭监控</b>
+					{% endif %}
+				</td>
+			</tr>
+			{% endfor %}
+		</table>
+		<input type="hidden" name="stop" value="0">
+		</form>
+	</div>
+{% endblock %}
